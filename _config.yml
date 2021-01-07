@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Giorgio Nicoletti"
+title                    : "Emanuele Pigani"
 title_separator          : " | "
-name                     : &name "Giorgio Nicoletti"
-description              : &description "PhD student in Physics at University of Padova"
-url                      : https://giorgionicoletti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Emanuele Pigani"
+description              : &description "Graduate student in Physics at University of Padova"
+url                      : https://epigani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "giorgionicoletti/giorgionicoletti.github.io"
+repository               : "epigani/epigani.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Giorgio Nicoletti"
+  name             : "Emanuele Pigani"
   avatar           : "profile_picture.png"
-  bio              : "PhD student in Physics at the University of Padova"
+  bio              : "Graduate student in Physics at the University of Padova"
   location         : "Padova (IT)"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.it/citations?hl=it&user=PVA6lnMAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=9qk7_0wAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "giorgionicoletti"
+  github           : "epigani"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/giorgio-nicoletti-023556a3/"
-  orcid            : "https://orcid.org/0000-0002-7682-0596"
+  linkedin         : "https://www.linkedin.com/in/emanuele-pigani/"
+  orcid            : "https://orcid.org/0000-0002-0566-0759"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
