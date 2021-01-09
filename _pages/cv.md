@@ -15,24 +15,32 @@ You can download my full CV [here](/files/CV.pdf){:target="_blank"}<!--_-->.
 <font size="5">
 <table>
   <tr>
-    <td width="25%"><div align="right">Oct 2019 - Present day<br>
-	  <img src='/images/liphlogo_red.png' style="padding-top:7px;display: block;margin-right:15px;" width="150"></div>
+    <td width="25%"><div align="right">Nov 2020 - Present day<br>
+	  <img src='/images/liphlogo_blue.png' style="padding-top:7px;display: block;margin-right:15px;" width="150"></div>
     </td>
-    <td width="65%">Ph.D in <i>Physics</i>, University of Padova<br>
+    <td width="65%">Graduate student in <i>Physics</i>, University of Padova<br>
 	     <b>Supervisor:</b> Amos Maritan<br>
-		   <b>Co-supervisor:</b> Samir Suweis<br>
-       <b>Main research interests:</b> complex systems and the Physics of phase transitions.<br><br>
+		   <b>Co-supervisor:</b> Sandro Azaele<br>
+       <b>Main research interests:</b> Statistical Mechanics of spatial ecosystems.<br><br>
+   </td>
+  </tr>
+  <tr>
+    <td width="25%"><div align="right">Nov 2020 - Present day<br>
+    <img src='/images/logoFBK.png' style="padding-top:7px;display: block;margin-right:15px;" width="150"></div>
+    </td>
+    <td width="65%">Research assistant at ICT center - Fondazione Bruno Kessler, Trento<br>
+       <b>Supervisor:</b> Bruno Lepri<br><br>
    </td>
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2017 - Sept 2019<br>
 		<img src="/images/unipd.png" style="padding-top: 7px;display: block;margin-right:35px;" width="100"></div></td>
 		<td width="65%">Master's degree in <i>Physics</i>, University of Padova<br>
-      <b>Thesis title:</b> <i>Scaling and renormalization group for models of neural activity</i><br>
-	 		<b>Advisor:</b> Amos Maritan<br>
-      <b>Co-advisor:</b> Samir Suweis<br>
-      <b>Final grade:</b> 110/110 cum laude<br>
-      <b>GPA:</b> 29.93/30<br><br>
+      <b>Thesis title:</b> <i>Analysis and modelling of information ecosystems.</i><br>
+	 		<b>Advisor:</b> Samir Suweis<br>
+      <b>Co-advisors:</b> Caterina De Bacco, Carlos Alberto Plata<br>
+      <b>Final grade:</b> 110/110<br>
+      <b>GPA:</b> 29.03/30<br><br>
     </td>
   </tr>
   <tr>
