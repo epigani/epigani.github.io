@@ -26,7 +26,7 @@ You can download my full CV [here](/files/CV.pdf){:target="_blank"}<!--_-->.
   </tr>
   <tr>
     <td width="25%"><div align="right">Nov 2020 - Present day<br>
-    <img src='/images/logoFBK.png' style="padding-top:7px;display: block;margin-right:15px;" width="150"></div>
+    <img src='/images/logoFBK.png' style="padding-top:7px;display: block;margin-right:15px;" width="100"></div>
     </td>
     <td width="65%">Research assistant at ICT center - Fondazione Bruno Kessler, Trento<br>
        <b>Supervisor:</b> Bruno Lepri<br><br>
@@ -34,7 +34,7 @@ You can download my full CV [here](/files/CV.pdf){:target="_blank"}<!--_-->.
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2017 - Sept 2019<br>
-		<img src="/images/unipd_black.png" style="padding-top: 7px;display: block;margin-right:35px;" width="100"></div></td>
+		<img src="/images/unipd_black.png" style="padding-top: 7px;display: block;margin-right:35px;" width="90"></div></td>
 		<td width="65%">Master's degree in <i>Physics</i>, University of Padova<br>
       <b>Thesis title:</b> <i>Analysis and modelling of information ecosystems.</i><br>
 	 		<b>Advisor:</b> Samir Suweis<br>
@@ -52,14 +52,14 @@ You can download my full CV [here](/files/CV.pdf){:target="_blank"}<!--_-->.
   </tr>
   <tr>
     <td width="25%"><div align="right">Apr 2018 - Sep 2018<br>
-    <img src="/images/logoHei.png" style="padding-top: 7px;display: block;margin-right:25px;" width="120"></div></td>
+    <img src="/images/logoHei.png" style="padding-top: 7px;display: block;margin-right:25px;" width="100"></div></td>
     <td width="65%">Erasmus Semester at the <i>Department of Physics and Astronomy</i>, Ruprecht-Karls-University, University of Heidelberg<br>
       <b>Supervisor:</b> Caterina De Bacco<br>
     </td>
   </tr>
   <tr>
     <td width="25%"><div align="right">Oct 2014 - July 2017<br>
-			<img src="/images/unipd_black.png" style="padding-top: 7px;display: block;margin-right:35px;" width="100"></div></td>
+			<img src="/images/unipd_black.png" style="padding-top: 7px;display: block;margin-right:35px;" width="90"></div></td>
 		<td width="65%">Bachelor's degree in <i>Physics</i>, University of Padova<br>
       <b>Thesis title:</b> <i>Application of Voter Model to Ecosystems</i><br>
 	 		<b>Advisor:</b> Samir Suweis<br>
