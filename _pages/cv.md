@@ -13,7 +13,7 @@ You can download my full CV [here](/files/CV.pdf){:target="_blank"}<!--_-->.
 ## Research
 <font size="5">
 <table>
-    <tr>
+  <tr>
     <td width="25%"><div align="right">Oct 2021 - Present day<br>
     <img src='/images/oulogo.png' style="padding-top:7px;display: block;margin-right:15px;" width="150"></div>
     </td>
@@ -40,6 +40,7 @@ You can download my full CV [here](/files/CV.pdf){:target="_blank"}<!--_-->.
     <td width="65%">Research assistant at ICT center - Fondazione Bruno Kessler, Trento<br>
        <b>Supervisor:</b> Bruno Lepri<br><br>
    </td>
+  </tr>
 </table>
 </font>
 
