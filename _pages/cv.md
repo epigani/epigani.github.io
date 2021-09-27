@@ -49,14 +49,6 @@ You can download my full CV [here](/files/CV.pdf){:target="_blank"}<!--_-->.
 <font size="5">
 <table>
   <tr>
-    <td width="25%"><div align="right">Nov 2020 - Oct 2021<br>
-    <img src='/images/logoFBK.png' style="padding-top:7px;display: block;margin-right:15px;" width="100"></div>
-    </td>
-    <td width="65%">Research assistant at ICT center - Fondazione Bruno Kessler, Trento<br>
-       <b>Supervisor:</b> Bruno Lepri<br><br>
-   </td>
-  </tr>
-  <tr>
     <td width="25%"><div align="right">Oct 2017 - Sept 2019<br>
 		<img src="/images/unipd_black.png" style="padding-top: 7px;display: block;margin-right:35px;" width="90"></div></td>
 		<td width="65%">Master's degree in <i>Physics</i>, University of Padova<br>
