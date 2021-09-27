@@ -10,22 +10,45 @@ redirect_from:
 
 You can download my full CV [here](/files/CV.pdf){:target="_blank"}<!--_-->.
 
+## Research
+<font size="5">
+<table>
+    <tr>
+    <td width="25%"><div align="right">Oct 2021 - Present day<br>
+    <img src='/images/oulogo.png' style="padding-top:7px;display: block;margin-right:15px;" width="150"></div>
+    </td>
+    <td width="65%">Ph.D. student, The Open University, London<br>
+       <b>Supervisor:</b> Daniele Iudicone<br>
+       <b>Co-supervisors:</b> Samir Suweis and Olivier Jaillon<br>
+       <b>Research topic:</b> Role Of Oceanic Circulation In Plankton Communities’ Structure And Functioning<br><br>
+   </td>
+  </tr>
+  <tr>
+    <td width="25%"><div align="right">Nov 2020 - Sept 2021<br>
+    <img src='/images/liphlogo_blue.png' style="padding-top:7px;display: block;margin-right:15px;" width="150"></div>
+    </td>
+    <td width="65%">Graduate student in <i>Physics</i>, University of Padova<br>
+       <b>Supervisor:</b> Amos Maritan<br>
+       <b>Co-supervisor:</b> Sandro Azaele<br>
+       <b>Main research interests:</b> Statistical Mechanics of spatial ecosystems.<br><br>
+   </td>
+  </tr>
+  <tr>
+    <td width="25%"><div align="right">Jan 2020 - Oct 2020<br>
+    <img src='/images/logoFBK.png' style="padding-top:7px;display: block;margin-right:25px;" width="100"></div>
+    </td>
+    <td width="65%">Research assistant at ICT center - Fondazione Bruno Kessler, Trento<br>
+       <b>Supervisor:</b> Bruno Lepri<br><br>
+   </td>
+</table>
+</font>
+
 
 ## Education
 <font size="5">
 <table>
   <tr>
-    <td width="25%"><div align="right">Nov 2020 - Present day<br>
-	  <img src='/images/liphlogo_blue.png' style="padding-top:7px;display: block;margin-right:15px;" width="150"></div>
-    </td>
-    <td width="65%">Graduate student in <i>Physics</i>, University of Padova<br>
-	     <b>Supervisor:</b> Amos Maritan<br>
-		   <b>Co-supervisor:</b> Sandro Azaele<br>
-       <b>Main research interests:</b> Statistical Mechanics of spatial ecosystems.<br><br>
-   </td>
-  </tr>
-  <tr>
-    <td width="25%"><div align="right">Nov 2020 - Present day<br>
+    <td width="25%"><div align="right">Nov 2020 - Oct 2021<br>
     <img src='/images/logoFBK.png' style="padding-top:7px;display: block;margin-right:15px;" width="100"></div>
     </td>
     <td width="65%">Research assistant at ICT center - Fondazione Bruno Kessler, Trento<br>
@@ -76,6 +99,7 @@ You can download my full CV [here](/files/CV.pdf){:target="_blank"}<!--_-->.
 
 
 ## Attended conferences, schools and workshop
+* [SMEEB 2021](https://liphlab.github.io/SMEEB2021/){:target="_blank"}<!--_-->, *Venice, Italy*, 22nd - 25th June 2021
 * [LiphLab Winter Workshop 2020](https://www.liphlab.com/workshops/winter-workshop-2020/){:target="_blank"}<!--_-->, *Folgaria, Italy*, 16th - 18st January 2020
 * [First Italian Conference on Complex Systems](http://italy.cssociety.org/index.php/ccs-italy-2019/){:target="_blank"}<!--_-->, *Bruno Kessler Foundation, Trento, Italy*, 1st - 3rd July 2019
 * [LiphLab Winter Workshop 2018](https://www.liphlab.com/workshops/winter-workshop-2020/){:target="_blank"}<!--_-->, *Folgaria, Italy*, 15th - 18st December 2018
