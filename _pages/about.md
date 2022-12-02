@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Emanuele Pigani. I am a PhD candidate within the SZN-Open University PhD programm under the supervision of Daniele Iudicone. I am also collaborating with the [Laboratory of Interdisciplinary Physics](https://liphlab.com/){:target="_blank"}<!--_--> under the supervision of Samir Suweis, Sandro Azaele, and Amos Maritan.
+My name is Emanuele Pigani. I am a PhD student within the SZN-Open University PhD programm under the supervision of Daniele Iudicone. I am also collaborating with the [Laboratory of Interdisciplinary Physics](https://liphlab.com/){:target="_blank"}<!--_--> under the supervision of Samir Suweis, Sandro Azaele, and Amos Maritan.
 
 I am a graduate student in Physics at the University of Padova, where I focused on topics in fundamental and applied non-equilibrium Statistical Mechanics.
 
