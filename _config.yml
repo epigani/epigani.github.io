@@ -86,8 +86,8 @@ author:
   location         : "Padova and Napoli (IT)"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=9qk7_0wAAAAJ"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=W3FqR7AAAAAJ&hl=en&oi=ao"
+  email            : "emanuele.pigani.1@unipd.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,11 +98,11 @@ author:
   foursquare       :
   github           : "epigani"
   google_plus      :
-  keybase          :
+  keybase          : "https://keybase.io/epigani"
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hhttps://it.linkedin.com/in/emanuele-pigani/en"
+  linkedin         : "https://it.linkedin.com/in/emanuele-pigani/en"
   orcid            : "https://orcid.org/0000-0002-0566-0759"
   pinterest        :
   soundcloud       :
