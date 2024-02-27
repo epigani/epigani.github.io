@@ -12,6 +12,6 @@ My name is Emanuele Pigani. I am a PhD student within the SZN-Open University Ph
 
 I am a graduate student in Physics at the University of Padova, where I focused on topics in fundamental and applied non-equilibrium Statistical Mechanics.
 
-My main research interest focuses on the mathematical modelling of biological systems: in particular, I study consumer-resource models for explaining how critical properties (like coexistence) emerge both in consumer-resource systems and metagenomics oceanics data.
+My main research interest focuses on the mathematical modelling of biological systems, from the single cell to the ecosystem level. I am particularly interested in the study of the emergence of collective behaviors in biological systems, and in the development of mathematical tools to understand and predict the dynamics of complex systems. I am also interested in the study of the role of the environment in shaping the dynamics of biological systems, and in the development of mathematical tools to understand and predict the dynamics of complex systems.
 
 More in general, I have a deep interest in understanding all the fundamental laws that underlie the reality. As Terenzio used to says,  "Homo sum, humani nihil a me alienum puto”.
