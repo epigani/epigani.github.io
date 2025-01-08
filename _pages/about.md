@@ -8,10 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-My name is Emanuele Pigani. I am a PhD student within the SZN-Open University PhD programm under the supervision of Daniele Iudicone. I am also collaborating with the [Laboratory of Interdisciplinary Physics](https://liphlab.com/){:target="_blank"}<!--_--> under the supervision of Samir Suweis, Sandro Azaele, and Amos Maritan.
+# Welcome to My Research Space 🌌
 
-I am a graduate student in Physics at the University of Padova, where I focused on topics in fundamental and applied non-equilibrium Statistical Mechanics.
+Hello! My name is **Emanuele Pigani**, and I am a PhD student within the **SZN-Open University PhD program**, under the supervision of **Daniele Iudicone**. I am also collaborating with the [**Laboratory of Interdisciplinary Physics**](https://liphlab.com/){:target="_blank"}<!--_-->, guided by **Samir Suweis**, **Sandro Azaele**, and **Amos Maritan**.
 
-My main research interest focuses on the mathematical modelling of biological systems, from the single cell to the ecosystem level. I am particularly interested in the study of the emergence of collective behaviors in biological systems, and in the development of mathematical tools to understand and predict the dynamics of complex systems. I am also interested in the study of the role of the environment in shaping the dynamics of biological systems, and in the development of mathematical tools to understand and predict the dynamics of complex systems.
+---
 
-More in general, I have a deep interest in understanding all the fundamental laws that underlie the reality. As Terenzio used to says,  "Homo sum, humani nihil a me alienum puto”.
+## 🎓 About Me  
+I hold a degree in Physics from the **University of Padova**, where I specialized in both fundamental and applied aspects of **Non-equilibrium Statistical Mechanics**. My academic journey has been fueled by a profound curiosity about the natural world and the mathematical principles that govern it.
+
+---
+
+## 🔬 My Research Interests  
+My research lies at the intersection of **mathematics**, **biology**, and **complex systems**. Specifically, I focus on:  
+- **Mathematical modeling** of biological systems, spanning from single cells to entire ecosystems.  
+- Exploring the **emergence of collective behaviors** in living systems.  
+- Developing tools to understand and predict the **dynamics of complex systems**.  
+- Investigating how the **environment shapes biological dynamics**.
+
+In a broader sense, I am passionate about uncovering the fundamental laws that underlie reality itself, striving to understand the intricate dance between order and chaos that defines life.
+
+---
+
+## 🌍 A Personal Philosophy  
+As **Terenzio** wisely said:  
+
+> _"Homo sum, humani nihil a me alienum puto."_  
+> _"I am human, and I think nothing human is alien to me."_
+
+This quote encapsulates my belief in the interconnectedness of all human endeavors—scientific, philosophical, and artistic.
+
+---
+
+Thank you for visiting my site! Feel free to explore my work and connect with me.
