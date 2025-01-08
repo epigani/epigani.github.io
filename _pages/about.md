@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Emanuele Pigani**, and I am a PhD student within the **SZN-Open University PhD program**, under the supervision of **Daniele Iudicone**. I am also collaborating with the [**Laboratory of Interdisciplinary Physics**](https://liphlab.com/){:target="_blank"}<!--_-->, guided by **Samir Suweis**, **Sandro Azaele**, and **Amos Maritan**.
+My name is **Emanuele Pigani**, and I am a PhD student within the SZN-Open University PhD program, under the supervision of Daniele Iudicone. I am also collaborating with the [Laboratory of Interdisciplinary Physics](https://liphlab.com/){:target="_blank"}<!--_-->, guided by Samir Suweis, Sandro Azaele, and Amos Maritan.
 My research focuses on understanding the dynamics of microbial communities through mathematical modeling and statistical mechanics, with a particular interest in **phytoplankton and ocean ecosystems**.
 
 ---
@@ -20,8 +20,8 @@ I hold a degree in Physics from the **University of Padova**, where I specialize
 ---
 
 ## 🔬 My Research Interests  
-My research lies at the intersection of **mathematics**, **biology**, and **complex systems**. 
-During my PhD, I combine **mathematical tools** and **genomic data** to study microbial communities in the ocean. My work leverages data from the renowned **Tara Oceans expedition**, focusing on how phytoplankton interact with their environment.
+My research lies at the intersection of **physics**, **biology**, and **complex systems**. 
+During my PhD, I combine mathematical tools and genomic data to study microbial communities in the ocean. My work leverages data from the renowned **Tara Oceans expedition**, focusing on how phytoplankton interact with their environment.
 
 Broadly speaking, I am interested in:  
 - **Mathematical modeling** of biological systems, spanning from single cells to entire ecosystems.  
@@ -45,7 +45,7 @@ I am passionate about uncovering the fundamental laws that underlie reality itse
 ## 🌍 A Personal Philosophy  
 I am passionate about uncovering the fundamental laws that underlie reality itself, striving to understand the intricate dance between order and chaos that defines life.
 
-As **Terenzio** wisely said:  
+As Publio Terenzio Afro wisely said:  
 
 > _"Homo sum, humani nihil a me alienum puto."_  
 > _"I am human, and I think nothing human is alien to me."_
