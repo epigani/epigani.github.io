@@ -10,7 +10,7 @@ redirect_from:
 
 # Welcome to My Research Space 🌌
 
-Hello! My name is **Emanuele Pigani**, and I am a PhD student within the **SZN-Open University PhD program**, under the supervision of **Daniele Iudicone**. I am also collaborating with the [**Laboratory of Interdisciplinary Physics**](https://liphlab.com/){:target="_blank"}<!--_-->, guided by **Samir Suweis**, **Sandro Azaele**, and **Amos Maritan**.
+My name is **Emanuele Pigani**, and I am a PhD student within the **SZN-Open University PhD program**, under the supervision of **Daniele Iudicone**. I am also collaborating with the [**Laboratory of Interdisciplinary Physics**](https://liphlab.com/){:target="_blank"}<!--_-->, guided by **Samir Suweis**, **Sandro Azaele**, and **Amos Maritan**.
 
 ---
 
