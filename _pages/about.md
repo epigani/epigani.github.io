@@ -14,26 +14,10 @@ My research focuses on understanding the dynamics of microbial communities throu
 ---
 
 ## 🎓 About Me  
-I hold a degree in Physics from the **University of Padova**, where I specialized in both fundamental and applied aspects of **Non-equilibrium Statistical Mechanics**. I am currently pursuing a PhD at the **Stazione Zoologica Anton Dohrn** in Naples, Italy. 
+I hold a degree in Physics from the **University of Padova**, where I specialized in both fundamental and applied aspects of **Non-equilibrium Statistical Mechanics**. 
 
-Beyond my passion for research, I strive to live a balanced and fulfilling life. 
-Here are some of the things I love:
-	•	⚽ Playing (and watching) football—nothing beats the excitement of a great match. _"Vincere non è importante, è l'unica cosa che conta."_ (Winning is not important, it's the only thing that matters.)
-	•	🚴 Cycling—I enjoy riding my bike, at least as much as I dislike cars and traffic.
-	•	🍴 Good food and intermittent fasting—a dedicated follower of intermittent fasting (except during Christmas, of course!).
-	•	📚 Reading—especially novels and inspiring stories of remarkable individuals who shaped history, in many ways. 
-	•	🌱 Being in nature and gardening—working in the garden or tending to a small vegetable patch is even better when shared with good company.
-	•	🏞️ Spending time outdoors—whether hiking, exploring, or simply enjoying the tranquility of natural spaces.
-	•	❤️ Family time—most of all, I cherish the moments spent with my wife and daughters; they are my greatest source of joy and inspiration.
-
-
-
-
----
-
-## 🔬 My Research Interests  
 My research lies at the intersection of **physics**, **biology**, and **ecology**. 
-During my PhD, I combine mathematical tools and genomic data to study microbial communities in the ocean. My work leverages data from the renowned **Tara Oceans expedition**, focusing on how phytoplankton interact with their environment.
+I am pursuing a PhD at the **Stazione Zoologica Anton Dohrn** in Naples, Italy, where I combine mathematical tools and genomic data to study microbial communities in the ocean.
 
 Broadly speaking, I am interested in:  
 - **Mathematical modeling** of biological systems, spanning from single cells to entire ecosystems.  
@@ -41,7 +25,7 @@ Broadly speaking, I am interested in:
 - Developing tools to understand and predict the **dynamics of complex systems**.  
 - Investigating how the **environment shapes biological dynamics**.
 
-I am passionate about uncovering the fundamental laws that underlie reality itself.
+More in general, I am passionate about uncovering the fundamental laws that underlie reality itself.
 
 ---
 
@@ -68,6 +52,21 @@ We are made to know. From the moment we are born, we are driven by a need to und
 I firmly believe in a holistic approach to knowledge—one that refuses the constraints of overspecialization. 
 Science and academia should not isolate themselves by focusing solely on one narrow aspect of reality while forgetting the interconnected whole. 
 Instead, they should embrace the complexity and beauty of the broader picture, integrating diverse perspectives to illuminate the fundamental laws that govern our world.
+
+---
+
+## 📖 More about me 
+
+Beyond my passion for research, I strive to live a balanced and fulfilling life. 
+Here are some of the things I love:
+	•	⚽ Playing (and watching) football—nothing beats the excitement of a great match. _"Vincere non è importante, è l'unica cosa che conta."_ (Winning is not important, it's the only thing that matters.)
+	•	🚴 Cycling—I enjoy riding my bike, at least as much as I dislike cars and traffic.
+	•	🍴 Good food and intermittent fasting—a dedicated follower of intermittent fasting (except during Christmas, of course!).
+	•	📚 Reading—especially novels and inspiring stories of remarkable individuals who shaped history, in many ways. 
+	•	🌱 Being in nature and gardening—working in the garden or tending to a small vegetable patch is even better when shared with good company.
+	•	🏞️ Spending time outdoors—whether hiking, exploring, or simply enjoying the tranquility of natural spaces.
+	•	❤️ Family time—most of all, I cherish the moments spent with my wife and daughters; they are my greatest source of joy and inspiration.
+
 
 ---
 
