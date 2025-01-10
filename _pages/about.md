@@ -14,13 +14,25 @@ My research focuses on understanding the dynamics of microbial communities throu
 ---
 
 ## 🎓 About Me  
-I hold a degree in Physics from the **University of Padova**, where I specialized in both fundamental and applied aspects of **Non-equilibrium Statistical Mechanics**. My academic journey has been fueled by a profound curiosity about the natural world and the mathematical principles that govern it.
+I hold a degree in Physics from the **University of Padova**, where I specialized in both fundamental and applied aspects of **Non-equilibrium Statistical Mechanics**. I am currently pursuing a PhD at the **Stazione Zoologica Anton Dohrn** in Naples, Italy. 
+
+Beyond my passion for research, I strive to live a balanced and fulfilling life. 
+Here are some of the things I love:
+	•	⚽ Playing (and watching) football—nothing beats the excitement of a great match. _"Vincere non è importante, è l'unica cosa che conta."_ (Winning is not important, it's the only thing that matters.)
+	•	🚴 Cycling—I enjoy riding my bike, at least as much as I dislike cars and traffic.
+	•	🍴 Good food and intermittent fasting—a dedicated follower of intermittent fasting (except during Christmas, of course!).
+	•	📚 Reading—especially novels and inspiring stories of remarkable individuals who shaped history, in many ways. 
+	•	🌱 Being in nature and gardening—working in the garden or tending to a small vegetable patch is even better when shared with good company.
+	•	🏞️ Spending time outdoors—whether hiking, exploring, or simply enjoying the tranquility of natural spaces.
+	•	❤️ Family time—most of all, I cherish the moments spent with my wife and daughters; they are my greatest source of joy and inspiration.
+
+
 
 
 ---
 
 ## 🔬 My Research Interests  
-My research lies at the intersection of **physics**, **biology**, and **complex systems**. 
+My research lies at the intersection of **physics**, **biology**, and **ecology**. 
 During my PhD, I combine mathematical tools and genomic data to study microbial communities in the ocean. My work leverages data from the renowned **Tara Oceans expedition**, focusing on how phytoplankton interact with their environment.
 
 Broadly speaking, I am interested in:  
