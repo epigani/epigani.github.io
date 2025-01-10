@@ -47,16 +47,14 @@ I am passionate about uncovering the fundamental laws that underlie reality itse
 > *(You were not made to live as brutes, but to follow virtue and knowledge.)*  
 > — Dante Alighieri, *Inferno, Canto XXVI*
 
+> _"Homo sum, humani nihil a me alienum puto."_  
+> *(I am human, and I think nothing human is alien to me.)*  
+> — Publio Terenzio Afro, *Heautontimorùmenos*
+
 We are made to know. From the moment we are born, we are driven by a need to understand, to push the boundaries of what we know, always a bit further. 
 I firmly believe in a holistic approach to knowledge—one that refuses the constraints of overspecialization. 
 Science and academia should not isolate themselves by focusing solely on one narrow aspect of reality while forgetting the interconnected whole. 
 Instead, they should embrace the complexity and beauty of the broader picture, integrating diverse perspectives to illuminate the fundamental laws that govern our world.
-
-As Publio Terenzio Afro wisely said:  
-
-> _"Homo sum, humani nihil a me alienum puto."_  
-> _"I am human, and I think nothing human is alien to me."_
-
 
 ---
 
