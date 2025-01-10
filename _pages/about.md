@@ -29,8 +29,7 @@ Broadly speaking, I am interested in:
 - Developing tools to understand and predict the **dynamics of complex systems**.  
 - Investigating how the **environment shapes biological dynamics**.
 
-I am passionate about uncovering the fundamental laws that underlie reality itself, striving to understand the intricate dance between order and chaos that defines life.
-
+I am passionate about uncovering the fundamental laws that underlie reality itself.
 ---
 
 ## 🏆 Key Achievements  
@@ -42,8 +41,16 @@ I am passionate about uncovering the fundamental laws that underlie reality itse
 
 ---
 
-## 🌍 A Personal Philosophy  
-I am passionate about uncovering the fundamental laws that underlie reality itself, striving to understand the intricate dance between order and chaos that defines life.
+## 🌟 Personal Philosophy
+
+> *"Fatti non foste a viver come bruti, ma per seguir virtute e canoscenza."*  
+> *(You were not made to live as brutes, but to follow virtue and knowledge.)*  
+> — Dante Alighieri, *Inferno, Canto XXVI*
+
+We are made to know. From the moment we are born, we are driven by a need to understand, to push the boundaries of what we know, always a bit further. 
+I firmly believe in a holistic approach to knowledge—one that refuses the constraints of overspecialization. 
+Science and academia should not isolate themselves by focusing solely on one narrow aspect of reality while forgetting the interconnected whole. 
+Instead, they should embrace the complexity and beauty of the broader picture, integrating diverse perspectives to illuminate the fundamental laws that govern our world.
 
 As Publio Terenzio Afro wisely said:  
 
