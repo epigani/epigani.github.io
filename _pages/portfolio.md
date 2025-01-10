@@ -15,3 +15,11 @@ Here is a list of my other projects that I am currently working on or have compl
   <a href="{{ project.url }}">Learn More</a>
   <hr>
 {% endfor %}
+
+
+### Bibliography Cleaner and Sorter
+This tool helps you to clean and sort your .bib files automatically. Use it directly from this page:
+
+<iframe src="YOUR_STREAMLIT_APP_URL" width="100%" height="800" frameborder="0">
+  Sorry, your browser does not support inline frames.
+</iframe>
