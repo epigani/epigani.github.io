@@ -57,15 +57,17 @@ Instead, they should embrace the complexity and beauty of the broader picture, i
 
 ## 📖 More about me 
 
-Beyond my passion for research, I strive to live a balanced and fulfilling life. 
+Beyond my passion for research, I strive to live a balanced and fulfilling life.  
 Here are some of the things I love:
-	•	⚽ Playing (and watching) football—nothing beats the excitement of a great match. _"Vincere non è importante, è l'unica cosa che conta."_ (Winning is not important, it's the only thing that matters.)
-	•	🚴 Cycling—I enjoy riding my bike, at least as much as I dislike cars and traffic.
-	•	🍴 Good food and intermittent fasting—a dedicated follower of intermittent fasting (except during Christmas, of course!).
-	•	📚 Reading—especially novels and inspiring stories of remarkable individuals who shaped history, in many ways. 
-	•	🌱 Being in nature and gardening—working in the garden or tending to a small vegetable patch is even better when shared with good company.
-	•	🏞️ Spending time outdoors—whether hiking, exploring, or simply enjoying the tranquility of natural spaces.
-	•	❤️ Family time—most of all, I cherish the moments spent with my wife and daughters; they are my greatest source of joy and inspiration.
+
+- ⚽ **Playing (and watching) football**—nothing beats the excitement of a great match.  
+  _"Vincere non è importante, è l'unica cosa che conta."_ (Winning is not important, it's the only thing that matters.)
+- 🚴 **Cycling**—I enjoy riding my bike, at least as much as I dislike cars and traffic.
+- 🍴 **Good food and intermittent fasting**—a dedicated follower of intermittent fasting (except during Christmas, of course!).
+- 📚 **Reading**—especially novels and inspiring stories of remarkable individuals who shaped history, in many ways.
+- 🌱 **Being in nature and gardening**—working in the garden or tending to a small vegetable patch is even better when shared with good company.
+- 🏞️ **Spending time outdoors**—whether hiking, exploring, or simply enjoying the tranquility of natural spaces.
+- ❤️ **Family time**—most of all, I cherish the moments spent with my wife and daughters; they are my greatest source of joy and inspiration.
 
 
 ---
