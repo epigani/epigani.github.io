@@ -30,6 +30,7 @@ Broadly speaking, I am interested in:
 - Investigating how the **environment shapes biological dynamics**.
 
 I am passionate about uncovering the fundamental laws that underlie reality itself.
+
 ---
 
 ## 🏆 Key Achievements  
