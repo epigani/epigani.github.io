@@ -21,9 +21,14 @@ Here is a list of my other projects that I am currently working on or have compl
 This tool helps you to clean and sort your .bib files automatically. 
 Access the app [here](https://bib-cleaner.streamlit.app/) or use it directly from this page:
 
-<iframe src="https://bib-cleaner.streamlit.app/" width="100%" height="800" frameborder="0">
+<div class="text-center text-md-right">
+    <iframe src="https://bib-cleaner.streamlit.app/?embed=true&embed_options=show_padding"
+    height="600px" style="width: 100%; border: none"></iframe>
+</div>
+
+<!-- <iframe src="https://bib-cleaner.streamlit.app/" width="100%" height="800" frameborder="0">
     This browser does not support embedded web pages. Click <a href="https://bib-cleaner.streamlit.app/">here</a> to open the app in a new tab.
-</iframe>
+</iframe> -->
 
 <!-- <iframe src="https://bib-cleaner.streamlit.app/" width="100%" height="800" frameborder="0">
   Sorry, your browser does not support inline frames.
