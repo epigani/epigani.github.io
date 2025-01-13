@@ -23,7 +23,7 @@ Access the app [here](https://bib-cleaner.streamlit.app/) or use it directly fro
 
 <div class="text-center text-md-right">
     <iframe src="https://bib-cleaner.streamlit.app/?embed=true&embed_options=show_padding"
-    height="350px" style="width: 100%; border: none"></iframe>
+    height="400px" style="width: 100%; border: none"></iframe>
 </div>
 
 <!-- <iframe src="https://bib-cleaner.streamlit.app/" width="100%" height="800" frameborder="0">
