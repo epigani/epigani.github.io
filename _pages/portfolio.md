@@ -22,9 +22,10 @@ This tool helps you to clean and sort your .bib files automatically.
 Access the app [here](https://bib-cleaner.streamlit.app/) or use it directly from this page:
 
 <iframe src="https://bib-cleaner.streamlit.app/" width="100%" height="800" frameborder="0">
-  Sorry, your browser does not support inline frames.
-</iframe>
-
-<iframe src="https://bib-cleaner.streamlit.app/" width="100%" height="800" frameborder="0">
     This browser does not support embedded web pages. Click <a href="https://bib-cleaner.streamlit.app/">here</a> to open the app in a new tab.
 </iframe>
+
+<!-- <iframe src="https://bib-cleaner.streamlit.app/" width="100%" height="800" frameborder="0">
+  Sorry, your browser does not support inline frames.
+</iframe> -->
+
