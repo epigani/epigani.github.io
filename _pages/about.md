@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Emanuele Pigani**, and I am a PhD student within the SZN-Open University PhD program, under the supervision of Daniele Iudicone. I am also collaborating with the [Laboratory of Interdisciplinary Physics](https://liphlab.com/){:target="_blank"}<!--_-->, guided by Samir Suweis, Sandro Azaele, and Amos Maritan.
+My name is **Emanuele Pigani**, and I am postdoctoral research at the International Center for Theoretical Physics in Trieste. Specifically, I work in the [qEcoEvo group](https://jacopogrilli.github.io/group/) lead by [Jacopo Grilli](https://jacopogrilli.github.io/). 
+
+During my PhD, I worked under the supervision of Daniele Iudicone from **Stazione Zoologica Anton Dohrn** in Naples, in a joint collaboration with the [Laboratory of Interdisciplinary Physics](https://liphlab.com/){:target="_blank"}<!--_-->, guided by Samir Suweis, Sandro Azaele, and Amos Maritan.
 My research focuses on understanding the dynamics of microbial communities through mathematical modeling and statistical mechanics, with a particular interest in **phytoplankton and ocean ecosystems**.
+You can find my thesis ''Modeling Macroecological Patterns in Marine Ecosystems: From Community Structures to Gene Expressions'' [here](https://oro.open.ac.uk/103750/).
 
 ---
 
@@ -17,7 +20,7 @@ My research focuses on understanding the dynamics of microbial communities throu
 I hold a degree in Physics from the **University of Padova**, where I specialized in both fundamental and applied aspects of **Non-equilibrium Statistical Mechanics**. 
 
 My research lies at the intersection of **physics**, **biology**, and **ecology**. 
-I am pursuing a PhD at the **Stazione Zoologica Anton Dohrn** in Naples, Italy, where I combine mathematical tools and genomic data to study microbial communities in the ocean.
+
 
 Broadly speaking, I am interested in:  
 - **Mathematical modeling** of biological systems, spanning from single cells to entire ecosystems.  
