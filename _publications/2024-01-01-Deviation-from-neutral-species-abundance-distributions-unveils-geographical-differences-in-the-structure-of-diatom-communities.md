@@ -3,6 +3,7 @@ title: "Deviation from neutral species abundance distributions unveils geographi
 collection: publications
 permalink: /publication/2024-01-01-Deviation-from-neutral-species-abundance-distributions-unveils-geographical-differences-in-the-structure-of-diatom-communities
 date: 2024-01-01
+category: 'journal'
 venue: 'Science Advances'
 citation: ' Emanuele Pigani,  Bruno Mele,  Lucia Campese,  Enrico Ser-Giacomi,  Maurizio Ribera,  Daniele Iudicone,  Samir Suweis, &quot;Deviation from neutral species abundance distributions unveils geographical differences in the structure of diatom communities.&quot; Science Advances, 2024.'
 ---
