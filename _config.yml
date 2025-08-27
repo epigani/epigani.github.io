@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Emanuele Pigani"
-title_separator          : "-"
+title_separator          : " | "
 name                     : &name "Emanuele"
 description              : &description "Postdoctoral researcher in the Quantitative Life Science section at ICTP."
 url                      : https://epigani.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -22,7 +22,7 @@ repository               : "epigani/epigani.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   name             : "Emanuele Pigani"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher in Quantitative Life Science at the International Center for Theoretical Physics."
@@ -88,7 +88,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "diatoms.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
