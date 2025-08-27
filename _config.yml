@@ -22,12 +22,12 @@ repository               : "epigani/epigani.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "/images/profile.png"
   name             : "Emanuele Pigani"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher in Quantitative Life Science."
+  bio              : "Postdoctoral researcher in Quantitative Life Science at the International Center for Theoretical Physics (."
   location         : "Trieste, Italy"
-  employer         : "International Center for Theoretical Physics (ICTP)"
+  employer         : "ICTP"
   uri              : # URL
   email            : "epigani@ictp.it" 
 
