@@ -1,22 +1,37 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Unveiling Global Patterns in Taxonomic and Gene Expression Dynamics - Species Abundance Distributions and their Biological Interpretation<br />ICTP; Trieste, Italy",
+    45.6496485,
+    13.7772781
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Complexity and emergence in marine ecosystems/seascape: theory, mechanisms and data analysis<br />Synergy Summer School 2024; Ischia, Italy",
+    40.734205,
+    13.947125
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Delay effects on the stability of large ecosystems<br />Italian Society of Statistical Physics - Young seminars; Padova, Italy",
+    45.391408,
+    11.8058487
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Deviation from neutral species abundance distributions unveils geographical differences in the structure of diatom communities<br />ICTP; Trieste, Italy",
+    45.6496485,
+    13.7772781
+  ],
+  [
+    "Modeling bio-geographies \u2013 a conceptual approach<br />AtlantECO and CEODOS; Santiago, Chile",
+    -33.4377756,
+    -70.6504502
+  ],
+  [
+    "Deviation from neutral species abundance distributions unveils geographical differences in the structure of diatom communities<br />REIMAGINING OCEAN ECOLOGY - Towards a Paradigmatic Framework for the Seascape; Venice, Italy",
+    45.4371908,
+    12.3345898
+  ],
+  [
+    "Linking microscopical stochastic gene expression dynamics with macroecological patterns in phytoplankton communities - a theoretical approach<br />Random Dynamical Systems,  with applications in biology; Chicago, U.S.A.",
+    50.1079196,
+    8.6726286
   ]
 ];

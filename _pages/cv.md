@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Natural Sciences within Laboratory of Interdisciplinary Physics, Padua, and Stazione Zoologica Napoli, Naples, 2025
+* Research grant in Statistical Mechanics of Spatial Ecosystems at the Laboratory of Interdisciplinary Physics, Padua, 2021
+* Research Grant on Opinion Dynamics at the ICT Center of Fondazione Bruno Kessler, Trento, 2020
+* B.Sc. and M.Sc. in Physics, Università degli Studi di Padova, Padua, Italy, 2019
 
-Work experience
+Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
