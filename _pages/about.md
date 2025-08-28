@@ -16,6 +16,7 @@ During my PhD, I developed and applied theoretical frameworks to investigate eme
 ## Last Updates
 
 - July 2025: Presented a poster at StatPhys 27, Florence.
+- July 2025: Invited lecturer at Synergy Summer School 2025, Ischia.
 - May 2025: Started postdoctoral position at the International Center for Theoretical Physics in Trieste.
 
 
