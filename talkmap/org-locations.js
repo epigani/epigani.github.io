@@ -10,6 +10,11 @@ var addressPoints = [
     13.947125
   ],
   [
+    "Complexity and emergence in marine ecosystems seascape: theory, mechanisms, and data<br />Synergy Summer School 2025; Ischia, Italy",
+    40.734205,
+    13.947125
+  ],
+  [
     "Delay effects on the stability of large ecosystems<br />Italian Society of Statistical Physics - Young seminars; Padova, Italy",
     45.391408,
     11.8058487
@@ -30,8 +35,8 @@ var addressPoints = [
     12.3345898
   ],
   [
-    "Linking microscopical stochastic gene expression dynamics with macroecological patterns in phytoplankton communities - a theoretical approach<br />Random Dynamical Systems,  with applications in biology; Chicago, U.S.A.",
-    50.1079196,
-    8.6726286
+    "Linking microscopical stochastic gene expression dynamics with macroecological patterns in phytoplankton communities - a theoretical approach<br />Random Dynamical Systems,  with applications in biology; Chicago, IL, USA",
+    41.8755616,
+    -87.6244212
   ]
 ];
