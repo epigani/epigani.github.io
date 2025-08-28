@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Research Space"
+title: "Emanuele Pigani"
 author_profile: true
 redirect_from: 
   - /about/
