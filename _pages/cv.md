@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my full CV [here](/files/CV.pdf){:target="_blank"}<!--_-->.
+
 Education
 ======
 * Ph.D. in Natural Sciences within Laboratory of Interdisciplinary Physics, Padua, and Stazione Zoologica Napoli, Naples, 2025
@@ -17,8 +19,6 @@ Education
 * B.Sc. and M.Sc. in Physics, Università degli Studi di Padova, Padua, Italy, 2019
   
 {% include base_path %}
-
-You can download my full CV [here](/files/CV.pdf){:target="_blank"}<!--_-->.
 
 
 Publications
