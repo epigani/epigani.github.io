@@ -5,17 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 {% if site.talkmap_link %}
+  <p>The markers on the map represents a conference, workshop, or institute where I presented my work. Click on a marker for more information.</p>
   <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
   <!-- <p style="text-decoration:underline;">
     <a href="/talkmap.html">See a map of all the places I've given a talk!</a>
   </p> -->
-{% endif %}
-
-{% if site.talkmap_link == true %}
-  <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
-
-<!-- <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p> -->
-
 {% endif %}
 
 {% for post in site.talks reversed %}
