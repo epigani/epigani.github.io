@@ -15,32 +15,11 @@ Education
 * Research grant in Statistical Mechanics of Spatial Ecosystems at the Laboratory of Interdisciplinary Physics, Padua, 2021
 * Research Grant on Opinion Dynamics at the ICT Center of Fondazione Bruno Kessler, Trento, 2020
 * B.Sc. and M.Sc. in Physics, Università degli Studi di Padova, Padua, Italy, 2019
-
-Experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+{% include base_path %}
+
+You can download my full CV [here](/files/CV.pdf){:target="_blank"}<!--_-->.
+
 
 Publications
 ======
