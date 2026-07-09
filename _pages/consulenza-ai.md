@@ -91,9 +91,9 @@ author_profile: true
 
 <div class="ai-consulting" markdown="1">
 
-Molte persone stanno provando strumenti di AI, ma poche riescono a trasformarli in un modo di lavorare stabile. Il problema non è aprire ChatGPT ogni tanto: è capire quali attività ha senso cambiare, quali no, quali strumenti usare, come proteggere dati e qualità, e come evitare che l’AI diventi solo un altro pezzo di confusione.
+Molte persone stanno provando ad usare strumenti di intelligenza artificiale, ma pochi riescono a integrarli in modo stabile, ripetibile ed efficace. Aprire ChatGPT ogni tanto non basta: serve capire quali attività ha senso cambiare, quali no, quali strumenti usare, come proteggere dati e qualità, ma anche come evitare che l’AI diventi controproducente.
 
-Aiuto professionisti, team e piccole organizzazioni a usare l’intelligenza artificiale in modo concreto: per scrivere meglio, analizzare informazioni, automatizzare parti ripetitive del lavoro, costruire procedure interne, valutare strumenti e formare persone senza perdersi nel rumore.
+Forte della mia esperienza come ricercatore in sistemi complessi ed esperto di strumenti digitali, il mio obiettivo è aiutare professionisti, team e piccole organizzazioni a usare l’AI in modo concreto: per scrivere meglio, analizzare informazioni, automatizzare parti ripetitive del lavoro, costruire procedure interne, valutare strumenti e formare persone, focalizzandoci su casi d’uso realistici e workflow ripetibili. 
 
 Il mio approccio è pratico: partiamo da come lavori adesso, individuiamo dove perdi tempo o qualità, testiamo pochi casi d’uso ad alto valore e costruiamo workflow che puoi riutilizzare anche dopo la consulenza.
 
@@ -104,7 +104,7 @@ Il mio approccio è pratico: partiamo da come lavori adesso, individuiamo dove p
 
 ## Quando posso esserti utile
 
-Questa consulenza può essere utile se vuoi passare da prove isolate con strumenti AI a un modo di lavorare più chiaro, ripetibile e controllato.
+Sono convinto che per la maggior parte dei lavori, l'AI sostituirà dei compiti e delle funzioni specifiche, ma non sostituirà le persone. L'AI può quindi essere un alleato potente, ma solo se ne conosci appieno potenzialità e limiti. Se pensi che l'AI possa aiutarti, ma non sai da dove partire, ecco alcune situazioni in cui posso esserti utile:
 
 <ul class="ai-check-list">
   <li>Hai provato strumenti AI, ma li usi in modo discontinuo e senza un metodo.</li>
@@ -132,7 +132,7 @@ Questa consulenza può essere utile se vuoi passare da prove isolate con strumen
 
 ## Cosa posso fare
 
-Il punto di partenza è un problema concreto: troppo tempo perso su documenti, email, report, dati, attività manuali o processi che potrebbero essere semplificati.
+Il punto di partenza è un ascolto e un'osservazione attenta del tuo lavoro, per capire dove l’AI può portare valore reale. Spesso infatti il problema non è la mancanza di strumenti, ma la mancanza di un metodo: sapere cosa fare, come farlo e come verificare i risultati. E così si rischia di perdere tempo, qualità e controllo su documenti, email, report, dati, attività manuali o processi che potrebbero essere semplificati.
 
 <div class="ai-grid ai-grid--three">
   <div class="ai-card">
@@ -167,7 +167,7 @@ Il punto di partenza è un problema concreto: troppo tempo perso su documenti, e
 
 ## Come lavoro
 
-Di solito parto da una prima conversazione per capire il contesto. Non serve arrivare con una richiesta tecnica già definita: spesso il primo lavoro è distinguere un bisogno reale da una soluzione immaginata troppo presto.
+Il punto di partenza è sempre una prima conversazione per capire il contesto. Non serve arrivare con una richiesta tecnica già definita: spesso il primo lavoro è distinguere un bisogno reale da una soluzione immaginata troppo presto.
 
 Da lì possiamo scegliere il formato più utile.
 
@@ -195,7 +195,7 @@ Alla fine non dovresti avere solo “idee”, ma materiali utilizzabili: procedu
 ## Principi
 
 <ul class="ai-check-list">
-  <li>L’AI deve far risparmiare tempo o migliorare qualità, altrimenti è solo rumore.</li>
+  <li>L’AI deve far risparmiare tempo o migliorare qualità, altrimenti è solo fonte di disturbo.</li>
   <li>Non tutto va automatizzato: alcune parti del lavoro vanno rese più chiare, non sostituite.</li>
   <li>Un buon workflow deve essere ripetibile anche quando non ci sono io.</li>
   <li>Privacy e dati sensibili vanno discussi prima di scegliere strumenti.</li>
@@ -204,7 +204,7 @@ Alla fine non dovresti avere solo “idee”, ma materiali utilizzabili: procedu
 
 ## Alcuni esempi concreti
 
-Questi non sono casi studio o lavori già svolti: sono esempi di situazioni in cui una consulenza può essere utile.
+Ecco alcuni esempi di situazioni in cui una consulenza può essere utile.
 
 <div class="ai-grid ai-grid--two">
   <div class="ai-card">
