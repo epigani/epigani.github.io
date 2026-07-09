@@ -16,9 +16,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-
-  - title: "Consulenza AI"
-    url: /consulenza-ai/
     
   - title: "CV"
     url: /cv/
