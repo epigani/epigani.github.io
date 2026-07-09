@@ -34,10 +34,23 @@ When you are initially working on your website, it is very useful to be able to 
     ```
     then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
 
-    On MacOS the commands are:
+    On MacOS, do not use the system Ruby shipped with macOS. This repository expects Ruby 3.x, matching the provided Dockerfile. One option is Homebrew:
     ```bash
     brew install ruby
     brew install node
+    gem install bundler
+    ```
+    After installing Ruby, make sure your shell is using the Homebrew Ruby, not `/usr/bin/ruby`:
+    ```bash
+    ruby -v
+    ```
+    The version should be `3.x`. If it still shows `2.6.x`, update your shell `PATH` so the Homebrew Ruby comes before the system Ruby, then restart the terminal.
+
+    Alternatively, with `rbenv`:
+    ```bash
+    brew install rbenv ruby-build
+    rbenv install 3.2.2
+    rbenv local 3.2.2
     gem install bundler
     ```
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
