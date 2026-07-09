@@ -3,12 +3,9 @@
 consulting:
   name        : "Emanuele Pigani"
   email       : "emanuele.pigani@me.com"
-  bio         : "Consulenza AI pratica per professionisti, team e aziende."
+  bio         : "Consulenza AI pratica per professionisti, studi e aziende."
   avatar      : "profile.png"
   location    : "Trieste, Italy"
-  googlescholar: "https://scholar.google.com/citations?user=W3FqR7AAAAAJ"
-  orcid       : "https://orcid.org/0000-0002-0566-0759"
-  github      : "epigani"
 
 Name Name:
   name        : "Name Name"
