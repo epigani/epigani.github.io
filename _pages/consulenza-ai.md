@@ -19,6 +19,13 @@ robots: "noindex, nofollow"
   --ai-card-radius: 6px;
   --ai-card-padding: 1rem;
   --ai-grid-gap: 1rem;
+  width: 100%;
+  max-width: 100%;
+  overflow-wrap: break-word;
+}
+
+.ai-consulting * {
+  box-sizing: border-box;
 }
 
 html[data-theme="dark"] .ai-consulting {
@@ -70,6 +77,7 @@ html[data-theme="dark"] .ai-consulting {
   border: 1px solid var(--global-border-color);
   border-radius: var(--ai-card-radius);
   background: var(--global-bg-color);
+  overflow: hidden;
 }
 
 .ai-consulting .ai-process-map__title {
@@ -265,6 +273,17 @@ html[data-theme="dark"] .ai-consulting {
 }
 
 @media (max-width: 37.5em) {
+  .ai-consulting {
+    width: calc(100vw - 2rem);
+    max-width: calc(100vw - 2rem);
+  }
+
+  .ai-consulting .btn {
+    padding-right: 0.65rem;
+    padding-left: 0.65rem;
+    font-size: 0.72rem;
+  }
+
   .ai-consulting .ai-process-map__svg {
     display: none;
   }
@@ -276,6 +295,10 @@ html[data-theme="dark"] .ai-consulting {
 
   .ai-consulting .ai-process-map__subtitle {
     margin-bottom: 0.75rem;
+  }
+
+  .ai-consulting .ai-process-stage p {
+    overflow-wrap: anywhere;
   }
 }
 
