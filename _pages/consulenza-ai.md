@@ -273,9 +273,19 @@ html[data-theme="dark"] .ai-consulting {
 }
 
 @media (max-width: 37.5em) {
+  #main,
+  .page,
+  .page__inner-wrap,
+  .page__content {
+    width: calc(100vw - 2rem) !important;
+    max-width: calc(100vw - 2rem) !important;
+    min-width: 0 !important;
+    overflow-x: hidden;
+  }
+
   .ai-consulting {
-    width: calc(100vw - 2rem);
-    max-width: calc(100vw - 2rem);
+    width: 100%;
+    max-width: 100%;
   }
 
   .ai-consulting .btn {
