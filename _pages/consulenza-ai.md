@@ -295,8 +295,8 @@ html[data-theme="dark"] .ai-consulting {
   .ai-consulting .ai-check-list,
   .ai-consulting .ai-grid,
   .ai-consulting .ai-contact-box {
-    width: calc(100vw - 6rem) !important;
-    max-width: calc(100vw - 6rem) !important;
+    width: 18rem !important;
+    max-width: 18rem !important;
   }
 
   .ai-consulting .btn {
