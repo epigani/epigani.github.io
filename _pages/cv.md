@@ -11,6 +11,10 @@ redirect_from:
 
 You can download my full CV [here](/files/CV.pdf){:target="_blank"}<!--_-->.
 
+Personal Data
+======
+* Status: Married. Three children.
+
 Education
 ======
 * Ph.D. in Natural Sciences within Laboratory of Interdisciplinary Physics, Padua, and Stazione Zoologica Napoli, Naples, 2025
