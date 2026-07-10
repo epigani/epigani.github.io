@@ -227,6 +227,10 @@ html[data-theme="dark"] .ai-consulting {
   color: var(--global-text-color-light);
 }
 
+html[data-theme="dark"] .ai-consulting .ai-card .ai-result {
+  color: var(--global-link-color);
+}
+
 .ai-consulting .ai-check-list {
   display: grid;
   gap: 0.65rem;
