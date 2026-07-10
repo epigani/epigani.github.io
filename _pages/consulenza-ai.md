@@ -288,6 +288,17 @@ html[data-theme="dark"] .ai-consulting {
     max-width: 100%;
   }
 
+  .ai-consulting > p,
+  .ai-consulting h2,
+  .ai-consulting .ai-quick-contact,
+  .ai-consulting .ai-process-map,
+  .ai-consulting .ai-check-list,
+  .ai-consulting .ai-grid,
+  .ai-consulting .ai-contact-box {
+    width: calc(100vw - 4rem) !important;
+    max-width: calc(100vw - 4rem) !important;
+  }
+
   .ai-consulting .btn {
     padding-right: 0.65rem;
     padding-left: 0.65rem;
