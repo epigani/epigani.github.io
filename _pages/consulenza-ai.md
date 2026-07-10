@@ -15,6 +15,7 @@ robots: "noindex, nofollow"
   --ai-accent: #166970;
   --ai-accent-contrast: #fff;
   --ai-accent-hover: #0f5158;
+  --ai-muted: #4e6268;
   --ai-card-radius: 6px;
   --ai-card-padding: 1rem;
   --ai-grid-gap: 1rem;
@@ -24,6 +25,7 @@ html[data-theme="dark"] .ai-consulting {
   --ai-accent: #5ed4dc;
   --ai-accent-contrast: #111820;
   --ai-accent-hover: #9ce9ee;
+  --ai-muted: #c7d6dc;
 }
 
 .ai-consulting .ai-cta-row {
@@ -58,7 +60,7 @@ html[data-theme="dark"] .ai-consulting {
 
 .ai-consulting .ai-quick-contact {
   margin: 0 0 1.15rem;
-  color: var(--global-text-color-light);
+  color: var(--ai-muted);
   font-size: 0.9rem;
 }
 
@@ -78,7 +80,7 @@ html[data-theme="dark"] .ai-consulting {
 
 .ai-consulting .ai-process-map__subtitle {
   margin: 0 0 0.8rem;
-  color: var(--global-text-color-light);
+  color: var(--ai-muted);
   font-size: 0.82rem;
 }
 
@@ -144,7 +146,7 @@ html[data-theme="dark"] .ai-consulting {
 }
 
 .ai-consulting .ai-map-small {
-  fill: var(--global-text-color-light);
+  fill: var(--ai-muted);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 11px;
   font-weight: 500;
