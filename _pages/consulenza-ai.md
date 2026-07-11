@@ -35,6 +35,73 @@ html[data-theme="dark"] .ai-consulting {
   --ai-muted: #c7d6dc;
 }
 
+.ai-consulting .ai-hero {
+  margin-bottom: 1.2rem;
+}
+
+.ai-consulting .ai-hero__lead {
+  max-width: 45rem;
+  margin: 0 0 0.9rem;
+  font-size: 1.05rem;
+  line-height: 1.55;
+}
+
+.ai-consulting .ai-hero__summary {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0 0.85rem;
+}
+
+.ai-consulting .ai-hero-point {
+  padding: 0.85rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: var(--ai-card-radius);
+  background: var(--global-bg-color);
+}
+
+.ai-consulting .ai-hero-point strong {
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.ai-consulting .ai-hero-point span {
+  display: block;
+  color: var(--ai-muted);
+  font-size: 0.88rem;
+  line-height: 1.35;
+}
+
+.ai-consulting .ai-above-fold-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.55rem 0.8rem;
+  margin: 0.9rem 0 1.1rem;
+  padding: 0;
+  list-style: none;
+}
+
+.ai-consulting .ai-above-fold-list li {
+  position: relative;
+  padding-left: 1.35rem;
+  font-size: 0.93rem;
+  line-height: 1.35;
+}
+
+.ai-consulting .ai-above-fold-list li::before {
+  position: absolute;
+  left: 0;
+  color: var(--global-link-color);
+  content: "→";
+  font-weight: 700;
+}
+
+.ai-consulting .ai-hero-note {
+  margin: 0.35rem 0 0;
+  color: var(--ai-muted);
+  font-size: 0.92rem;
+}
+
 .ai-consulting .ai-cta-row {
   display: flex;
   flex-wrap: wrap;
@@ -294,8 +361,11 @@ html[data-theme="dark"] .ai-consulting .ai-card .ai-result {
 
   .ai-consulting > p,
   .ai-consulting h2,
+  .ai-consulting .ai-hero,
   .ai-consulting .ai-quick-contact,
   .ai-consulting .ai-process-map,
+  .ai-consulting .ai-above-fold-list,
+  .ai-consulting .ai-hero__summary,
   .ai-consulting .ai-check-list,
   .ai-consulting .ai-grid,
   .ai-consulting .ai-contact-box {
@@ -307,6 +377,11 @@ html[data-theme="dark"] .ai-consulting .ai-card .ai-result {
     padding-right: 0.65rem;
     padding-left: 0.65rem;
     font-size: 0.72rem;
+  }
+
+  .ai-consulting .ai-hero__summary,
+  .ai-consulting .ai-above-fold-list {
+    grid-template-columns: 1fr;
   }
 
   .ai-consulting .ai-process-map__svg {
@@ -337,18 +412,41 @@ html[data-theme="dark"] .ai-consulting .ai-card .ai-result {
 
 <div class="ai-consulting" markdown="1">
 
-Molte persone stanno provando a usare strumenti di intelligenza artificiale, ma poche riescono a integrarli in modo stabile, ripetibile ed efficace. Aprire ChatGPT ogni tanto non basta: serve capire quali attività ha senso cambiare, quali no, quali strumenti usare, come proteggere dati e qualità, ma anche come evitare che l’AI diventi controproducente.
+<div class="ai-hero" markdown="1">
 
-Forte della mia esperienza come ricercatore in sistemi complessi ed esperto di strumenti digitali, il mio obiettivo è aiutare professionisti, team e piccole organizzazioni a usare l’AI in modo concreto: per scrivere meglio, analizzare informazioni, automatizzare parti ripetitive del lavoro, costruire procedure interne, valutare strumenti e formare persone, focalizzandoci su casi d’uso realistici e workflow ripetibili. 
+<p class="ai-hero__lead"><strong>Ti aiuto a passare dall’uso occasionale dell’AI a workflow semplici, verificabili e adatti al tuo lavoro.</strong> Partiamo da attività reali: documenti, email, dati, report, processi ripetitivi, formazione del team e scelta degli strumenti.</p>
 
-Il mio approccio è pratico: partiamo da come lavori adesso, individuiamo dove perdi tempo o qualità, testiamo pochi casi d’uso ad alto valore e costruiamo workflow che puoi riutilizzare anche dopo la consulenza.
+<div class="ai-hero__summary">
+  <div class="ai-hero-point">
+    <strong>Dove usarla davvero</strong>
+    <span>Individuiamo le attività in cui l’AI porta valore e quelle in cui rischia di complicare il lavoro.</span>
+  </div>
+  <div class="ai-hero-point">
+    <strong>Come lavorarci</strong>
+    <span>Costruiamo procedure, prompt, checklist e piccoli workflow riutilizzabili.</span>
+  </div>
+  <div class="ai-hero-point">
+    <strong>Come restare in controllo</strong>
+    <span>Definiamo criteri per privacy, qualità, verifiche e limiti degli strumenti.</span>
+  </div>
+</div>
+
+<ul class="ai-above-fold-list">
+  <li>Uso ChatGPT o altri strumenti, ma senza metodo.</li>
+  <li>Perdo tempo su documenti, email, report o materiali interni.</li>
+  <li>Voglio capire cosa automatizzare senza perdere controllo.</li>
+  <li>Devo dare linee guida pratiche a un team non tecnico.</li>
+</ul>
 
 <div class="ai-cta-row">
-  <a class="btn" href="mailto:emanuele.pigani@me.com">Scrivimi</a>
-  <a class="btn btn--inverse" href="#quando-posso-esserti-utile">Quando posso esserti utile</a>
+  <a class="btn" href="mailto:emanuele.pigani@me.com">Parliamone</a>
+  <a class="btn btn--inverse" href="#quando-posso-esserti-utile">Vedi se fa per te</a>
 </div>
 
 <p class="ai-quick-contact">Per un primo confronto: <a href="mailto:emanuele.pigani@me.com">emanuele.pigani@me.com</a></p>
+<p class="ai-hero-note">Non una panoramica generica sull’intelligenza artificiale: un lavoro sui tuoi strumenti, materiali e processi.</p>
+
+</div>
 
 <div class="ai-process-map" role="img" aria-label="Mappa del metodo di consulenza AI: materiali e processi reali entrano in una diagnosi, vengono trasformati in workflow controllati da privacy e qualità, e producono procedure, template, automazioni e formazione.">
   <p class="ai-process-map__title">Dal lavoro reale a workflow controllabili</p>
@@ -446,7 +544,7 @@ Il mio approccio è pratico: partiamo da come lavori adesso, individuiamo dove p
 
 ## Quando posso esserti utile
 
-Sono convinto che per la maggior parte dei lavori l’AI sostituirà compiti e funzioni specifiche, ma non sostituirà le persone. Può quindi essere un alleato potente, ma solo se ne conosci potenzialità e limiti. Se ti riconosci in una di queste frasi, possiamo partire da lì:
+L’AI può essere utile quando entra in processi concreti e resta controllabile. Se ti riconosci in una di queste frasi, possiamo partire da lì:
 
 <ul class="ai-check-list">
   <li>Ho provato strumenti AI, ma li uso in modo discontinuo e senza un metodo.</li>
