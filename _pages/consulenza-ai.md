@@ -406,10 +406,10 @@ html[data-theme="dark"] .ai-consulting {
 }
 </style>
 
-<div class="ai-consulting" markdown="1">
+<div class="ai-consulting">
 
 <div class="ai-hero">
-  <div class="ai-hero__copy" markdown="1">
+  <div class="ai-hero__copy">
     <p class="ai-kicker">Consulenza operativa, non teoria sull’AI</p>
 
     <p class="ai-hero__lead"><strong>Ti aiuto a capire dove l’AI può servire davvero nel tuo lavoro</strong> e a trasformarla in procedure semplici: documenti, email, analisi, automazioni leggere, assistenti interni e formazione del team.</p>
@@ -503,9 +503,9 @@ html[data-theme="dark"] .ai-consulting {
   </div>
 </div>
 
-<div class="ai-section" markdown="1">
+<div class="ai-section">
 
-## Per chi
+<h2>Per chi</h2>
 
 <div class="ai-audience">
   <span class="ai-chip">Liberi professionisti</span>
@@ -518,9 +518,9 @@ html[data-theme="dark"] .ai-consulting {
 
 </div>
 
-<div class="ai-section" markdown="1">
+<div class="ai-section">
 
-## Cosa puoi ottenere
+<h2>Cosa puoi ottenere</h2>
 
 <div class="ai-outcomes">
   <div class="ai-card">
