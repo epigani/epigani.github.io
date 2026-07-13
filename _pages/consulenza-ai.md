@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "Consulenza AI pratica per professionisti e aziende"
-description: "Consulenza AI in italiano per professionisti, studi e aziende: automazioni, documenti, workflow, formazione, scelta degli strumenti e uso pratico dell’intelligenza artificiale."
-excerpt: "Consulenza AI in italiano per professionisti, studi e aziende: automazioni, documenti, workflow, formazione, scelta degli strumenti e uso pratico dell’intelligenza artificiale."
+description: "Consulenza AI per professionisti, studi e aziende: automazioni, documenti, workflow, formazione, scelta degli strumenti e uso pratico dell’intelligenza artificiale."
+excerpt: "Consulenza AI per professionisti, studi e aziende: automazioni, documenti, workflow, formazione, scelta degli strumenti e uso pratico dell’intelligenza artificiale."
 permalink: /consulenza-ai/
 author: consulting
 author_profile: true
@@ -410,18 +410,18 @@ html[data-theme="dark"] .ai-consulting {
 
 <div class="ai-hero">
   <div class="ai-hero__copy">
-    <p class="ai-kicker">Consulenza operativa, non teoria sull’AI</p>
+    <p class="ai-kicker">Consulenza operativa AI</p>
 
-    <p class="ai-hero__lead"><strong>Ti aiuto a capire dove l’AI può servire davvero nel tuo lavoro</strong> e a trasformarla in procedure semplici: documenti, email, analisi, automazioni leggere, assistenti interni e formazione del team.</p>
+    <p class="ai-hero__lead"><strong>Scopriamo assieme come l'AI può servirti davvero nel tuo lavoro!</strong> 
+    Se usi già strumenti AI, ma ti sembra di usarli al 10% del loro potenziale, oppure se sei alle prime armi e non sai da dove cominciare, sei nel posto giusto. Ti aiuto a capire come integrare l’AI nel tuo lavoro attraverso un approccio pratico, passo dopo passo.</p>
 
-    <p class="ai-hero__note">Partiamo da ciò che fai già. L’obiettivo è ridurre attività ripetitive, scegliere gli strumenti giusti e mantenere controllo su dati, qualità e decisioni.</p>
-
+    <p class="ai-hero__note"> Cominceremo da un'analisi del tuo lavoro e dei tuoi processi, per capire dove l’AI può essere utile e come usarla in modo sicuro ed efficace. L’obiettivo è capire quali sono gli strumenti giusti che possono sostituire o ridurre attività ripetitive, senza perdere il controllo su dati, qualità e decisioni. In questo modo potrai sfruttare al massimo il potenziale dell'AI e dedicarti alla parte più creativa e importante del tuo lavoro.</p>
     <div class="ai-cta-row">
       <a class="btn" href="mailto:emanuele.pigani@me.com">Parliamone</a>
       <a class="btn btn--inverse" href="/consulenza-ai/approfondisci/">Approfondisci</a>
     </div>
 
-    <p class="ai-quick-contact">Primo contatto: <a href="mailto:emanuele.pigani@me.com">emanuele.pigani@me.com</a></p>
+    <p class="ai-quick-contact">Contattami: <a href="mailto:emanuele.pigani@me.com">emanuele.pigani@me.com</a></p>
   </div>
 
   <div class="ai-workflow" role="img" aria-label="Workflow AI controllato: input reali, strumenti AI, verifica umana e output riutilizzabili.">
@@ -540,7 +540,7 @@ html[data-theme="dark"] .ai-consulting {
 </div>
 
 <div class="ai-contact-box">
-  <p><strong>Vuoi capire se ha senso per il tuo caso?</strong><span>Mandami due righe su contesto, obiettivo e strumenti già usati.</span></p>
+  <p><strong>Vuoi capire meglio se ha senso per il tuo caso?</strong><span>Mandami due righe con contesto, obiettivo e strumenti già usati.</span></p>
   <a class="btn" href="mailto:emanuele.pigani@me.com">Scrivimi</a>
 </div>
 
