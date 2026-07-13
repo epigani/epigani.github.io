@@ -412,7 +412,7 @@ html[data-theme="dark"] .ai-consulting {
   <div class="ai-hero__copy">
     <p class="ai-kicker">Consulenza operativa AI</p>
 
-    <p class="ai-hero__lead"><strong>Scopriamo assieme come l'AI può servirti davvero nel tuo lavoro!</strong> 
+    <p class="ai-hero__lead">
     Se usi già strumenti AI, ma ti sembra di usarli al 10% del loro potenziale, oppure se sei alle prime armi e non sai da dove cominciare, sei nel posto giusto. Ti aiuto a capire come integrare l’AI nel tuo lavoro attraverso un approccio pratico, passo dopo passo.</p>
 
     <p class="ai-hero__note"> Cominceremo da un'analisi del tuo lavoro e dei tuoi processi, per capire dove l’AI può essere utile e come usarla in modo sicuro ed efficace. L’obiettivo è capire quali sono gli strumenti giusti che possono sostituire o ridurre attività ripetitive, senza perdere il controllo su dati, qualità e decisioni. In questo modo potrai sfruttare al massimo il potenziale dell'AI e dedicarti alla parte più creativa e importante del tuo lavoro.</p>
