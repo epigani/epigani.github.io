@@ -13,12 +13,12 @@ robots: "noindex, nofollow"
 <style>
 .ai-consulting {
   --ai-accent: #166970;
+  --ai-accent-soft: rgba(22, 105, 112, 0.1);
   --ai-accent-contrast: #fff;
   --ai-accent-hover: #0f5158;
   --ai-muted: #4e6268;
   --ai-card-radius: 6px;
-  --ai-card-padding: 1rem;
-  --ai-grid-gap: 1rem;
+  --ai-card-padding: 0.95rem;
   width: 100%;
   max-width: 100%;
   overflow-wrap: break-word;
@@ -30,83 +30,53 @@ robots: "noindex, nofollow"
 
 html[data-theme="dark"] .ai-consulting {
   --ai-accent: #5ed4dc;
+  --ai-accent-soft: rgba(94, 212, 220, 0.14);
   --ai-accent-contrast: #111820;
   --ai-accent-hover: #9ce9ee;
   --ai-muted: #c7d6dc;
 }
 
 .ai-consulting .ai-hero {
-  margin-bottom: 1.2rem;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(18rem, 0.85fr);
+  gap: 1.25rem;
+  align-items: center;
+  margin-bottom: 1.4rem;
+}
+
+.ai-consulting .ai-kicker {
+  margin: 0 0 0.45rem;
+  color: var(--ai-accent);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }
 
 .ai-consulting .ai-hero__lead {
-  max-width: 45rem;
-  margin: 0 0 0.9rem;
-  font-size: 1.05rem;
+  max-width: 42rem;
+  margin: 0 0 0.85rem;
+  font-size: 1.08rem;
   line-height: 1.55;
 }
 
-.ai-consulting .ai-hero__summary {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 0.75rem;
-  margin: 1rem 0 0.85rem;
+.ai-consulting .ai-hero__lead strong {
+  color: var(--global-text-color);
 }
 
-.ai-consulting .ai-hero-point {
-  padding: 0.85rem;
-  border: 1px solid var(--global-border-color);
-  border-radius: var(--ai-card-radius);
-  background: var(--global-bg-color);
-}
-
-.ai-consulting .ai-hero-point strong {
-  display: block;
-  margin-bottom: 0.25rem;
-}
-
-.ai-consulting .ai-hero-point span {
-  display: block;
+.ai-consulting .ai-hero__note {
+  max-width: 37rem;
+  margin: 0;
   color: var(--ai-muted);
-  font-size: 0.88rem;
-  line-height: 1.35;
-}
-
-.ai-consulting .ai-above-fold-list {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0.55rem 0.8rem;
-  margin: 0.9rem 0 1.1rem;
-  padding: 0;
-  list-style: none;
-}
-
-.ai-consulting .ai-above-fold-list li {
-  position: relative;
-  padding-left: 1.35rem;
-  font-size: 0.93rem;
-  line-height: 1.35;
-}
-
-.ai-consulting .ai-above-fold-list li::before {
-  position: absolute;
-  left: 0;
-  color: var(--global-link-color);
-  content: "→";
-  font-weight: 700;
-}
-
-.ai-consulting .ai-hero-note {
-  margin: 0.35rem 0 0;
-  color: var(--ai-muted);
-  font-size: 0.92rem;
+  font-size: 0.94rem;
+  line-height: 1.45;
 }
 
 .ai-consulting .ai-cta-row {
   display: flex;
   flex-wrap: wrap;
   gap: 0.6rem;
-  margin: 1.2rem 0 0.5rem;
+  margin: 1rem 0 0.65rem;
 }
 
 .ai-consulting .btn {
@@ -133,141 +103,186 @@ html[data-theme="dark"] .ai-consulting {
 }
 
 .ai-consulting .ai-quick-contact {
-  margin: 0 0 1.15rem;
+  margin: 0;
   color: var(--ai-muted);
   font-size: 0.9rem;
 }
 
-.ai-consulting .ai-process-map {
-  margin: 1.1rem 0 1.8rem;
-  padding: 0.9rem;
+.ai-consulting .ai-signal-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.65rem;
+  margin: 1.1rem 0 1.6rem;
+}
+
+.ai-consulting .ai-signal {
+  padding: 0.82rem;
+  border: 1px solid var(--global-border-color);
+  border-left: 3px solid var(--ai-accent);
+  border-radius: var(--ai-card-radius);
+  background: var(--global-bg-color);
+}
+
+.ai-consulting .ai-signal strong {
+  display: block;
+  margin-bottom: 0.25rem;
+  font-size: 0.92rem;
+}
+
+.ai-consulting .ai-signal span {
+  display: block;
+  color: var(--ai-muted);
+  font-size: 0.84rem;
+  line-height: 1.35;
+}
+
+.ai-consulting .ai-workflow {
+  padding: 0.8rem;
   border: 1px solid var(--global-border-color);
   border-radius: var(--ai-card-radius);
   background: var(--global-bg-color);
-  overflow: hidden;
 }
 
-.ai-consulting .ai-process-map__title {
+.ai-consulting .ai-workflow__title {
   margin: 0 0 0.2rem;
-  font-size: 0.95rem;
+  font-size: 0.94rem;
   font-weight: 700;
 }
 
-.ai-consulting .ai-process-map__subtitle {
-  margin: 0 0 0.8rem;
+.ai-consulting .ai-workflow__subtitle {
+  margin: 0 0 0.55rem;
   color: var(--ai-muted);
-  font-size: 0.82rem;
+  font-size: 0.8rem;
+  line-height: 1.35;
 }
 
-.ai-consulting .ai-process-map__svg {
+.ai-consulting .ai-workflow__svg {
   display: block;
   width: 100%;
   height: auto;
 }
 
-.ai-consulting .ai-map-node,
-.ai-consulting .ai-map-control,
-.ai-consulting .ai-map-core,
-.ai-consulting .ai-map-output {
+.ai-consulting .ai-node,
+.ai-consulting .ai-control,
+.ai-consulting .ai-core,
+.ai-consulting .ai-output {
   fill: var(--global-bg-color);
   stroke: var(--global-border-color);
   stroke-width: 1.1;
 }
 
-.ai-consulting .ai-map-core {
+.ai-consulting .ai-core {
+  fill: var(--ai-accent-soft);
   stroke: var(--ai-accent);
-  stroke-width: 2;
-  animation: ai-map-core 4.8s ease-in-out infinite;
+  stroke-width: 1.8;
+  animation: ai-core-pulse 4.5s ease-in-out infinite;
 }
 
-.ai-consulting .ai-map-control {
+.ai-consulting .ai-output {
+  stroke: var(--ai-accent);
+}
+
+.ai-consulting .ai-control {
   stroke-dasharray: 5 5;
 }
 
-.ai-consulting .ai-map-output {
-  stroke: var(--ai-accent);
-  stroke-opacity: 0.75;
-}
-
-.ai-consulting .ai-map-path {
+.ai-consulting .ai-flow {
   fill: none;
   stroke: var(--ai-accent);
+  stroke-dasharray: 7 11;
   stroke-linecap: round;
   stroke-linejoin: round;
-  stroke-width: 2.2;
-  opacity: 0.55;
-  marker-end: url(#ai-map-arrow);
+  stroke-width: 2;
+  opacity: 0.62;
+  animation: ai-flow 12s linear infinite;
+  marker-end: url(#ai-arrow);
 }
 
-.ai-consulting .ai-map-path--flow {
-  stroke-dasharray: 8 12;
-  animation: ai-map-flow 14s linear infinite;
+.ai-consulting .ai-flow--quiet {
+  opacity: 0.34;
+  stroke-dasharray: 4 9;
 }
 
-.ai-consulting .ai-map-path--control {
-  stroke-dasharray: 4 8;
-  opacity: 0.38;
-}
-
-.ai-consulting .ai-map-arrow {
+.ai-consulting .ai-arrow {
   fill: var(--ai-accent);
+}
+
+.ai-consulting .ai-dot {
+  fill: var(--ai-accent);
+  opacity: 0.82;
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: ai-dot 3.4s ease-in-out infinite;
+}
+
+.ai-consulting .ai-dot--late {
+  animation-delay: 1.1s;
 }
 
 .ai-consulting .ai-map-label {
   fill: var(--global-text-color);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 700;
 }
 
 .ai-consulting .ai-map-small {
   fill: var(--ai-muted);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-size: 11px;
+  font-size: 10px;
   font-weight: 500;
 }
 
-.ai-consulting .ai-map-section {
-  fill: var(--global-text-color-light);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-size: 12px;
-  font-weight: 700;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
+.ai-consulting .ai-workflow__steps {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.45rem;
+  margin-top: 0.65rem;
 }
 
-.ai-consulting .ai-process-map__mobile {
-  display: none;
-}
-
-.ai-consulting .ai-process-stage {
-  padding: 0.85rem;
+.ai-consulting .ai-step {
+  padding: 0.5rem;
   border: 1px solid var(--global-border-color);
   border-radius: var(--ai-card-radius);
+  color: var(--ai-muted);
+  font-size: 0.78rem;
+  line-height: 1.25;
 }
 
-.ai-consulting .ai-process-stage h4 {
-  margin: 0 0 0.45rem;
+.ai-consulting .ai-step strong {
+  display: block;
+  color: var(--global-text-color);
+  font-size: 0.82rem;
 }
 
-.ai-consulting .ai-process-stage p {
-  margin: 0;
-  color: var(--global-text-color-light);
-  font-size: 0.9rem;
+.ai-consulting .ai-section {
+  margin: 1.55rem 0;
 }
 
-.ai-consulting .ai-grid {
+.ai-consulting .ai-section h2 {
+  margin-bottom: 0.65rem;
+}
+
+.ai-consulting .ai-audience {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.85rem 0 0;
+}
+
+.ai-consulting .ai-chip {
+  padding: 0.38rem 0.58rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 999px;
+  color: var(--global-text-color);
+  font-size: 0.84rem;
+}
+
+.ai-consulting .ai-outcomes {
   display: grid;
-  gap: var(--ai-grid-gap);
-  margin: 1rem 0 1.75rem;
-}
-
-.ai-consulting .ai-grid--two {
-  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
-}
-
-.ai-consulting .ai-grid--three {
-  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.8rem;
+  margin-top: 0.85rem;
 }
 
 .ai-consulting .ai-card {
@@ -277,69 +292,92 @@ html[data-theme="dark"] .ai-consulting {
   background: var(--global-bg-color);
 }
 
-.ai-consulting .ai-card h3,
-.ai-consulting .ai-card h4 {
-  margin-top: 0;
-  margin-bottom: 0.45rem;
+.ai-consulting .ai-card h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1rem;
 }
 
-.ai-consulting .ai-card p:last-child {
-  margin-bottom: 0;
-}
-
-.ai-consulting .ai-card .ai-result {
-  margin-top: 0.8rem;
-  padding-top: 0.75rem;
-  border-top: 1px solid var(--global-border-color);
-  color: var(--global-text-color-light);
-}
-
-html[data-theme="dark"] .ai-consulting .ai-card .ai-result {
-  color: var(--global-link-color);
-}
-
-.ai-consulting .ai-check-list {
-  display: grid;
-  gap: 0.65rem;
-  margin: 1rem 0 1.75rem;
-  padding: 0;
-  list-style: none;
-}
-
-.ai-consulting .ai-check-list li {
-  position: relative;
-  padding-left: 1.5rem;
-}
-
-.ai-consulting .ai-check-list li::before {
-  position: absolute;
-  left: 0;
-  color: var(--global-link-color);
-  content: "✓";
-  font-weight: 700;
+.ai-consulting .ai-card p {
+  margin: 0;
+  color: var(--ai-muted);
+  font-size: 0.9rem;
+  line-height: 1.42;
 }
 
 .ai-consulting .ai-contact-box {
-  margin-top: 1rem;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 1rem;
+  align-items: center;
+  margin-top: 1.35rem;
   padding: 1rem;
   border: 1px solid var(--global-border-color);
   border-radius: var(--ai-card-radius);
+  background: var(--ai-accent-soft);
 }
 
-@keyframes ai-map-flow {
+.ai-consulting .ai-contact-box p {
+  margin: 0;
+}
+
+.ai-consulting .ai-contact-box strong {
+  display: block;
+  margin-bottom: 0.2rem;
+}
+
+.ai-consulting .ai-contact-box span {
+  display: block;
+  color: var(--ai-muted);
+  font-size: 0.9rem;
+  line-height: 1.35;
+}
+
+@keyframes ai-flow {
   to {
-    stroke-dashoffset: -120;
+    stroke-dashoffset: -110;
   }
 }
 
-@keyframes ai-map-core {
+@keyframes ai-core-pulse {
   0%,
   100% {
-    stroke-width: 2;
+    stroke-width: 1.8;
   }
 
   50% {
-    stroke-width: 3.2;
+    stroke-width: 3;
+  }
+}
+
+@keyframes ai-dot {
+  0%,
+  100% {
+    opacity: 0.25;
+    transform: scale(0.9);
+  }
+
+  50% {
+    opacity: 0.9;
+    transform: scale(1.2);
+  }
+}
+
+@media (max-width: 48em) {
+  .ai-consulting .ai-hero,
+  .ai-consulting .ai-signal-grid,
+  .ai-consulting .ai-outcomes,
+  .ai-consulting .ai-contact-box {
+    grid-template-columns: 1fr;
+  }
+
+  .ai-consulting .ai-workflow__steps {
+    grid-template-columns: 1fr;
+  }
+
+  .ai-consulting .ai-cta-row .btn,
+  .ai-consulting .ai-contact-box .btn {
+    width: 100%;
+    text-align: center;
   }
 }
 
@@ -354,57 +392,15 @@ html[data-theme="dark"] .ai-consulting .ai-card .ai-result {
     overflow-x: hidden;
   }
 
-  .ai-consulting {
-    width: 100%;
-    max-width: 100%;
-  }
-
-  .ai-consulting > p,
-  .ai-consulting h2,
-  .ai-consulting .ai-hero,
-  .ai-consulting .ai-quick-contact,
-  .ai-consulting .ai-process-map,
-  .ai-consulting .ai-above-fold-list,
-  .ai-consulting .ai-hero__summary,
-  .ai-consulting .ai-check-list,
-  .ai-consulting .ai-grid,
-  .ai-consulting .ai-contact-box {
-    width: 18rem !important;
-    max-width: 18rem !important;
-  }
-
-  .ai-consulting .btn {
-    padding-right: 0.65rem;
-    padding-left: 0.65rem;
-    font-size: 0.72rem;
-  }
-
-  .ai-consulting .ai-hero__summary,
-  .ai-consulting .ai-above-fold-list {
-    grid-template-columns: 1fr;
-  }
-
-  .ai-consulting .ai-process-map__svg {
-    display: none;
-  }
-
-  .ai-consulting .ai-process-map__mobile {
-    display: grid;
-    gap: 0.65rem;
-  }
-
-  .ai-consulting .ai-process-map__subtitle {
-    margin-bottom: 0.75rem;
-  }
-
-  .ai-consulting .ai-process-stage p {
-    overflow-wrap: anywhere;
+  .ai-consulting .ai-workflow__svg {
+    min-height: 16rem;
   }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .ai-consulting .ai-map-core,
-  .ai-consulting .ai-map-path--flow {
+  .ai-consulting .ai-core,
+  .ai-consulting .ai-flow,
+  .ai-consulting .ai-dot {
     animation: none;
   }
 }
@@ -412,185 +408,144 @@ html[data-theme="dark"] .ai-consulting .ai-card .ai-result {
 
 <div class="ai-consulting" markdown="1">
 
-<div class="ai-hero" markdown="1">
+<div class="ai-hero">
+  <div class="ai-hero__copy" markdown="1">
+    <p class="ai-kicker">Consulenza operativa, non teoria sull’AI</p>
 
-<p class="ai-hero__lead"><strong>Ti aiuto a passare dall’uso occasionale dell’AI a workflow semplici, verificabili e adatti al tuo lavoro.</strong> Partiamo da attività reali: documenti, email, dati, report, processi ripetitivi, formazione del team e scelta degli strumenti.</p>
+    <p class="ai-hero__lead"><strong>Ti aiuto a capire dove l’AI può servire davvero nel tuo lavoro</strong> e a trasformarla in procedure semplici: documenti, email, analisi, automazioni leggere, assistenti interni e formazione del team.</p>
 
-<div class="ai-hero__summary">
-  <div class="ai-hero-point">
-    <strong>Dove usarla davvero</strong>
-    <span>Individuiamo le attività in cui l’AI porta valore e quelle in cui rischia di complicare il lavoro.</span>
-  </div>
-  <div class="ai-hero-point">
-    <strong>Come lavorarci</strong>
-    <span>Costruiamo procedure, prompt, checklist e piccoli workflow riutilizzabili.</span>
-  </div>
-  <div class="ai-hero-point">
-    <strong>Come restare in controllo</strong>
-    <span>Definiamo criteri per privacy, qualità, verifiche e limiti degli strumenti.</span>
-  </div>
-</div>
+    <p class="ai-hero__note">Partiamo da ciò che fai già. L’obiettivo è ridurre attività ripetitive, scegliere gli strumenti giusti e mantenere controllo su dati, qualità e decisioni.</p>
 
-<ul class="ai-above-fold-list">
-  <li>Uso ChatGPT o altri strumenti, ma senza metodo.</li>
-  <li>Perdo tempo su documenti, email, report o materiali interni.</li>
-  <li>Voglio capire cosa automatizzare senza perdere controllo.</li>
-  <li>Devo dare linee guida pratiche a un team non tecnico.</li>
-</ul>
-
-<div class="ai-cta-row">
-  <a class="btn" href="mailto:emanuele.pigani@me.com">Parliamone</a>
-  <a class="btn btn--inverse" href="/consulenza-ai/approfondisci/">Approfondisci</a>
-</div>
-
-<p class="ai-quick-contact">Per un primo confronto: <a href="mailto:emanuele.pigani@me.com">emanuele.pigani@me.com</a></p>
-<p class="ai-hero-note">Non una panoramica generica sull’intelligenza artificiale: un lavoro sui tuoi strumenti, materiali e processi.</p>
-
-</div>
-
-<div class="ai-process-map" role="img" aria-label="Mappa del metodo di consulenza AI: materiali e processi reali entrano in una diagnosi, vengono trasformati in workflow controllati da privacy e qualità, e producono procedure, template, automazioni e formazione.">
-  <p class="ai-process-map__title">Dal lavoro reale a workflow controllabili</p>
-  <p class="ai-process-map__subtitle">La consulenza serve a collegare strumenti AI, processi quotidiani e criteri di controllo.</p>
-  <svg class="ai-process-map__svg" viewBox="0 0 960 460" aria-hidden="true" focusable="false">
-    <defs>
-      <marker id="ai-map-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
-        <path class="ai-map-arrow" d="M 0 0 L 10 5 L 0 10 z" />
-      </marker>
-    </defs>
-
-    <text class="ai-map-section" x="60" y="36">Input reali</text>
-    <text class="ai-map-section" x="420" y="36">Metodo</text>
-    <text class="ai-map-section" x="762" y="36">Output</text>
-
-    <path class="ai-map-path ai-map-path--flow" d="M210 108 C260 108 280 198 328 212" />
-    <path class="ai-map-path ai-map-path--flow" d="M210 178 C260 178 282 210 328 222" />
-    <path class="ai-map-path ai-map-path--flow" d="M210 248 C260 248 282 238 328 232" />
-    <path class="ai-map-path ai-map-path--flow" d="M210 318 C260 318 280 256 328 242" />
-    <path class="ai-map-path ai-map-path--flow" d="M470 225 L504 225" />
-    <path class="ai-map-path ai-map-path--flow" d="M624 225 L662 225" />
-    <path class="ai-map-path ai-map-path--flow" d="M800 212 C828 178 828 108 840 108" />
-    <path class="ai-map-path ai-map-path--flow" d="M800 222 C832 206 822 178 840 178" />
-    <path class="ai-map-path ai-map-path--flow" d="M800 238 C832 254 822 248 840 248" />
-    <path class="ai-map-path ai-map-path--flow" d="M800 248 C828 282 828 318 840 318" />
-    <path class="ai-map-path ai-map-path--control" d="M564 92 L564 168" />
-    <path class="ai-map-path ai-map-path--control" d="M564 358 L564 282" />
-
-    <rect class="ai-map-node" x="48" y="82" width="162" height="52" rx="8" />
-    <text class="ai-map-label" x="70" y="113">Documenti</text>
-    <text class="ai-map-small" x="70" y="127">file, norme, materiali</text>
-
-    <rect class="ai-map-node" x="48" y="152" width="162" height="52" rx="8" />
-    <text class="ai-map-label" x="70" y="183">Email e testi</text>
-    <text class="ai-map-small" x="70" y="197">bozze, offerte, report</text>
-
-    <rect class="ai-map-node" x="48" y="222" width="162" height="52" rx="8" />
-    <text class="ai-map-label" x="70" y="253">Dati</text>
-    <text class="ai-map-small" x="70" y="267">tabelle, note, metriche</text>
-
-    <rect class="ai-map-node" x="48" y="292" width="162" height="52" rx="8" />
-    <text class="ai-map-label" x="70" y="323">Processi</text>
-    <text class="ai-map-small" x="70" y="337">attività ripetitive</text>
-
-    <rect class="ai-map-node" x="328" y="178" width="142" height="94" rx="10" />
-    <text class="ai-map-label" x="355" y="215">Diagnosi</text>
-    <text class="ai-map-small" x="355" y="232">casi d’uso</text>
-    <text class="ai-map-small" x="355" y="248">priorità e limiti</text>
-
-    <rect class="ai-map-core" x="504" y="168" width="120" height="114" rx="14" />
-    <text class="ai-map-label" x="532" y="216">Metodo</text>
-    <text class="ai-map-small" x="526" y="235">strumenti AI</text>
-    <text class="ai-map-small" x="526" y="251">regole operative</text>
-
-    <rect class="ai-map-control" x="458" y="54" width="212" height="58" rx="10" />
-    <text class="ai-map-label" x="496" y="87">Privacy e vincoli</text>
-    <text class="ai-map-small" x="496" y="101">dati, ruoli, accessi</text>
-
-    <rect class="ai-map-control" x="458" y="338" width="212" height="58" rx="10" />
-    <text class="ai-map-label" x="496" y="371">Qualità e verifica</text>
-    <text class="ai-map-small" x="496" y="385">controlli, errori, standard</text>
-
-    <rect class="ai-map-output" x="662" y="178" width="138" height="94" rx="10" />
-    <text class="ai-map-label" x="694" y="215">Workflow</text>
-    <text class="ai-map-small" x="694" y="232">testati</text>
-    <text class="ai-map-small" x="694" y="248">riutilizzabili</text>
-
-    <rect class="ai-map-node" x="840" y="82" width="92" height="52" rx="8" />
-    <text class="ai-map-label" x="858" y="113">Procedure</text>
-
-    <rect class="ai-map-node" x="840" y="152" width="92" height="52" rx="8" />
-    <text class="ai-map-label" x="858" y="183">Template</text>
-
-    <rect class="ai-map-node" x="840" y="222" width="92" height="52" rx="8" />
-    <text class="ai-map-label" x="852" y="253">Automazioni</text>
-
-    <rect class="ai-map-node" x="840" y="292" width="92" height="52" rx="8" />
-    <text class="ai-map-label" x="858" y="323">Formazione</text>
-  </svg>
-  <div class="ai-process-map__mobile" aria-hidden="true">
-    <div class="ai-process-stage">
-      <h4>Input reali</h4>
-      <p>Documenti, email, dati e attività ripetitive del lavoro quotidiano.</p>
+    <div class="ai-cta-row">
+      <a class="btn" href="mailto:emanuele.pigani@me.com">Parliamone</a>
+      <a class="btn btn--inverse" href="/consulenza-ai/approfondisci/">Approfondisci</a>
     </div>
-    <div class="ai-process-stage">
-      <h4>Metodo</h4>
-      <p>Casi d’uso, strumenti, privacy, qualità e regole operative.</p>
-    </div>
-    <div class="ai-process-stage">
-      <h4>Output</h4>
-      <p>Workflow, procedure, template, automazioni leggere e formazione.</p>
+
+    <p class="ai-quick-contact">Primo contatto: <a href="mailto:emanuele.pigani@me.com">emanuele.pigani@me.com</a></p>
+  </div>
+
+  <div class="ai-workflow" role="img" aria-label="Workflow AI controllato: input reali, strumenti AI, verifica umana e output riutilizzabili.">
+    <p class="ai-workflow__title">Workflow AI controllato</p>
+    <p class="ai-workflow__subtitle">Dalle attività ripetitive a procedure verificabili.</p>
+    <svg class="ai-workflow__svg" viewBox="0 0 620 390" aria-hidden="true" focusable="false">
+      <defs>
+        <marker id="ai-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+          <path class="ai-arrow" d="M 0 0 L 10 5 L 0 10 z" />
+        </marker>
+      </defs>
+
+      <path class="ai-flow" d="M142 90 C205 90 218 166 270 178" />
+      <path class="ai-flow" d="M142 158 C198 158 218 180 270 190" />
+      <path class="ai-flow" d="M142 226 C198 226 218 202 270 200" />
+      <path class="ai-flow" d="M142 294 C205 294 218 214 270 210" />
+      <path class="ai-flow" d="M398 194 C432 194 446 194 480 194" />
+      <path class="ai-flow ai-flow--quiet" d="M334 90 L334 145" />
+      <path class="ai-flow ai-flow--quiet" d="M334 300 L334 245" />
+
+      <circle class="ai-dot" cx="210" cy="126" r="5" />
+      <circle class="ai-dot ai-dot--late" cx="438" cy="194" r="5" />
+
+      <rect class="ai-node" x="34" y="66" width="108" height="48" rx="7" />
+      <text class="ai-map-label" x="55" y="94">Documenti</text>
+
+      <rect class="ai-node" x="34" y="134" width="108" height="48" rx="7" />
+      <text class="ai-map-label" x="55" y="162">Email</text>
+
+      <rect class="ai-node" x="34" y="202" width="108" height="48" rx="7" />
+      <text class="ai-map-label" x="55" y="230">Dati</text>
+
+      <rect class="ai-node" x="34" y="270" width="108" height="48" rx="7" />
+      <text class="ai-map-label" x="55" y="298">Processi</text>
+
+      <rect class="ai-control" x="250" y="50" width="168" height="52" rx="9" />
+      <text class="ai-map-label" x="281" y="78">Privacy</text>
+      <text class="ai-map-small" x="281" y="92">dati, ruoli, vincoli</text>
+
+      <rect class="ai-core" x="270" y="145" width="128" height="100" rx="14" />
+      <text class="ai-map-label" x="304" y="186">AI</text>
+      <text class="ai-map-small" x="296" y="203">prompt, tool,</text>
+      <text class="ai-map-small" x="296" y="217">automazioni</text>
+
+      <rect class="ai-control" x="250" y="288" width="168" height="52" rx="9" />
+      <text class="ai-map-label" x="282" y="316">Verifica</text>
+      <text class="ai-map-small" x="282" y="330">qualità e limiti</text>
+
+      <rect class="ai-output" x="480" y="82" width="108" height="48" rx="7" />
+      <text class="ai-map-label" x="504" y="110">Procedure</text>
+
+      <rect class="ai-output" x="480" y="170" width="108" height="48" rx="7" />
+      <text class="ai-map-label" x="504" y="198">Template</text>
+
+      <rect class="ai-output" x="480" y="258" width="108" height="48" rx="7" />
+      <text class="ai-map-label" x="498" y="286">Formazione</text>
+    </svg>
+
+    <div class="ai-workflow__steps">
+      <div class="ai-step"><strong>1. Diagnosi</strong> Casi d’uso e priorità.</div>
+      <div class="ai-step"><strong>2. Prototipo</strong> Workflow piccolo e testabile.</div>
+      <div class="ai-step"><strong>3. Adozione</strong> Regole, template e follow-up.</div>
     </div>
   </div>
 </div>
 
-## In breve
-
-<div class="ai-grid ai-grid--three">
-  <div class="ai-card">
-    <h4>Capire dove ha senso</h4>
-    <p>Partiamo dai tuoi documenti, dati, testi e processi per individuare pochi casi d’uso ad alto valore.</p>
+<div class="ai-signal-grid">
+  <div class="ai-signal">
+    <strong>Ho provato strumenti AI, ma li uso a caso.</strong>
+    <span>Serve un metodo pratico, non un elenco di tool.</span>
   </div>
-  <div class="ai-card">
-    <h4>Costruire workflow</h4>
-    <p>Trasformiamo prove isolate in procedure riutilizzabili: prompt, checklist, template e automazioni leggere.</p>
+  <div class="ai-signal">
+    <strong>Perdo tempo su documenti, email o report.</strong>
+    <span>Molte attività si possono semplificare senza perdere controllo.</span>
   </div>
-  <div class="ai-card">
-    <h4>Usarla con controllo</h4>
-    <p>Definiamo regole pratiche per privacy, qualità, verifica degli output e limiti degli strumenti.</p>
+  <div class="ai-signal">
+    <strong>Il team è curioso, ma mancano regole chiare.</strong>
+    <span>Meglio pochi workflow condivisi che sperimentazioni isolate.</span>
   </div>
 </div>
+
+<div class="ai-section" markdown="1">
 
 ## Per chi
 
-<div class="ai-grid ai-grid--two">
+<div class="ai-audience">
+  <span class="ai-chip">Liberi professionisti</span>
+  <span class="ai-chip">Studi professionali</span>
+  <span class="ai-chip">PMI</span>
+  <span class="ai-chip">Team aziendali</span>
+  <span class="ai-chip">Processi documentali</span>
+  <span class="ai-chip">Attività amministrative e commerciali</span>
+</div>
+
+</div>
+
+<div class="ai-section" markdown="1">
+
+## Cosa puoi ottenere
+
+<div class="ai-outcomes">
   <div class="ai-card">
-    <h3>Professionisti e freelance</h3>
-    <p>Per usare meglio l’AI nel lavoro quotidiano: scrittura, documenti, email, studio, analisi, organizzazione dei materiali e automazioni leggere.</p>
+    <h3>Mappa dei casi d’uso</h3>
+    <p>Dove l’AI è utile, dove non lo è, cosa provare prima e cosa evitare.</p>
   </div>
   <div class="ai-card">
-    <h3>Aziende, studi e piccoli team</h3>
-    <p>Per ridurre attività ripetitive, creare linee guida interne, scegliere strumenti, formare persone e testare workflow controllati.</p>
+    <h3>Workflow pronti da testare</h3>
+    <p>Prompt, checklist, template e piccole automazioni per attività ricorrenti.</p>
   </div>
+  <div class="ai-card">
+    <h3>Regole di controllo</h3>
+    <p>Privacy, verifica degli output, limiti degli strumenti e responsabilità umana.</p>
+  </div>
+</div>
+
+</div>
+
+<div class="ai-contact-box">
+  <p><strong>Vuoi capire se ha senso per il tuo caso?</strong><span>Mandami due righe su contesto, obiettivo e strumenti già usati.</span></p>
+  <a class="btn" href="mailto:emanuele.pigani@me.com">Scrivimi</a>
 </div>
 
 <div class="ai-cta-row">
   <a class="btn btn--inverse" href="/consulenza-ai/approfondisci/">Leggi metodo e casi d’uso</a>
-</div>
-
-## Contatto
-
-<div class="ai-contact-box" markdown="1">
-
-Se vuoi capire se posso esserti utile, scrivimi a [emanuele.pigani@me.com](mailto:emanuele.pigani@me.com).
-
-Per rendere il primo scambio più utile, scrivimi due o tre righe su:
-
-- il tuo contesto: singolo professionista, team, azienda, settore;
-- cosa vorresti migliorare o semplificare;
-- quali strumenti hai già provato;
-- eventuali vincoli su dati, privacy, budget o tempi.
-
-<a class="btn" href="mailto:emanuele.pigani@me.com">Scrivimi</a>
-
 </div>
 
 </div>
