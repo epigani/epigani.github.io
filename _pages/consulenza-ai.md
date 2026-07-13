@@ -412,10 +412,9 @@ html[data-theme="dark"] .ai-consulting {
   <div class="ai-hero__copy">
     <p class="ai-kicker">Consulenza operativa AI</p>
 
-    <p class="ai-hero__lead">
-    Se usi già strumenti AI, ma ti sembra di sfruttarli al 10% del loro potenziale, oppure se sei alle prime armi e non sai da dove cominciare, sei nel posto giusto. Ti aiuto a capire come integrare l’AI nel tuo lavoro attraverso un approccio pratico, passo dopo passo.</p>
+    <p class="ai-hero__lead"><strong>Usi già strumenti AI, ma hai la sensazione di sfruttarli solo in parte? Oppure stai iniziando e non sai da dove cominciare?</strong> Ti aiuto a integrare l’AI nel tuo lavoro con un approccio pratico, guidato e passo dopo passo.</p>
 
-    <p class="ai-hero__note"> Cominceremo da un'analisi del tuo lavoro e dei tuoi processi, per capire dove l’AI può essere utile e come usarla in modo sicuro ed efficace. L’obiettivo è capire quali sono gli strumenti giusti che possono sostituire o ridurre attività ripetitive, senza perdere il controllo su dati, qualità e decisioni. In questo modo potrai sfruttare al massimo il potenziale dell'AI e dedicarti alla parte più creativa e importante del tuo lavoro.</p>
+    <p class="ai-hero__note">Partiamo da un’analisi concreta delle tue attività: documenti, email, dati, comunicazione e processi ripetitivi. Da lì individuiamo dove l’AI può aiutarti davvero, quali strumenti usare e quali regole seguire per lavorare in modo efficace, sicuro e controllabile. L’obiettivo è ridurre il lavoro meccanico e liberare tempo per le parti più importanti del tuo lavoro.</p>
     <div class="ai-cta-row">
       <a class="btn" href="mailto:emanuele.pigani@me.com">Parliamone</a>
       <a class="btn btn--inverse" href="/consulenza-ai/approfondisci/">Approfondisci</a>
