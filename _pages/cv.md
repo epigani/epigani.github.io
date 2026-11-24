@@ -39,9 +39,11 @@ Selected peer-reviewed publications
 
 † Equal contribution. \* Corresponding author.
 
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
   
 Preprints
 ======
@@ -50,9 +52,11 @@ Preprints
 
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+<ul>
+{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}
+</ul>
   
 Teaching and supervision
 ======
@@ -60,6 +64,8 @@ Teaching and supervision
 * **2022–present:** Supervision of three BSc thesis projects in Physics, University of Padova.
 * **November 2021–present:** Tenured teacher of Mathematics and Physics, Italian Ministry of Education and Merit (MIM). Currently on leave for research.
 
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>
+{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
