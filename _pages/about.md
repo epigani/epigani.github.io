@@ -18,9 +18,6 @@ During my PhD, I developed and applied theoretical frameworks to investigate eme
 - November 2026: Our paper, [“Scaling laws link conserved gene-abundance distributions to adaptive expression in diatom communities worldwide”](https://doi.org/10.1073/pnas.2615743123), has been published in *PNAS*.
 - 2026: Teaching assistant for [*Ecology and Evolution*](https://jacopogrilli.github.io/notes/ecoevo2026/index.html), taught by Jacopo Grilli, for the Physics of Complex Systems Master's programme and the ICTP Diploma in Quantitative Life Sciences.
 - 2026: Received an **Honourable Mention** in the Junior Category of the *Anton Dohrn Prize for Research Excellence in the Science of Marine Life* for my PhD thesis, awarded by the Dohrn Foundation and Stazione Zoologica Anton Dohrn.
-- July 2025: Presented a poster at StatPhys 27, Florence.
-- July 2025: Invited lecturer at Synergy Summer School 2025, Ischia.
-- May 2025: Started postdoctoral position at the International Center for Theoretical Physics in Trieste.
 
 
 ---
